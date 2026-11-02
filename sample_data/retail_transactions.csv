@@ -1,0 +1,1201 @@
+transaction_id,date,product,region,sales_channel,customer_segment,payment_method,quantity,unit_price,discount_pct,customer_tenure_months,delivery_days,satisfaction_score,returned,revenue
+TX-00001,2026-01-01 00:00:00,Webcam,West,Mobile App,Regular,Card,2,78.17,6.3,31.0,5,3.5,No,146.49
+TX-00002,2026-01-01 03:00:00,Monitor,South,Mobile App,Loyal,Bank Transfer,2,203.0,11.9,76.0,3,4.1,No,357.69
+TX-00003,2026-01-01 06:00:00,Webcam,South,Marketplace,Loyal,Card,2,78.06,12.5,83.0,4,4.1,No,136.61
+TX-00004,2026-01-01 09:00:00,Keyboard,North,Mobile App,Loyal,UPI,1,45.46,5.6,55.0,4,5.0,No,42.91
+TX-00005,2026-01-01 12:00:00,Notebook,North,Website,Loyal,Wallet,4,10.1,11.3,29.0,5,4.9,No,35.83
+TX-00006,2026-01-01 15:00:00,Office Chair,East,Website,Regular,Wallet,4,185.83,8.1,51.0,5,3.8,No,683.11
+TX-00007,2026-01-01 18:00:00,Webcam,Central,Mobile App,Regular,Card,3,69.32,9.6,57.0,2,4.7,No,188.0
+TX-00008,2026-01-01 21:00:00,Webcam,South,Mobile App,Regular,Card,3,74.14,12.9,10.0,5,3.9,No,193.73
+TX-00009,2026-01-02 00:00:00,Notebook,East,Website,Regular,UPI,4,7.73,8.6,70.0,3,4.6,No,28.26
+TX-00010,2026-01-02 03:00:00,Monitor,Central,Website,Enterprise,Card,10,183.85,12.3,37.0,4,4.6,No,1612.36
+TX-00011,2026-01-02 06:00:00,Headphones,West,Marketplace,Loyal,Wallet,2,53.69,6.5,72.0,3,4.9,No,100.4
+TX-00012,2026-01-02 09:00:00,Office Chair,North,Marketplace,Enterprise,UPI,17,175.45,17.1,52.0,4,3.9,No,2472.62
+TX-00013,2026-01-02 12:00:00,Keyboard,East,Mobile App,Regular,UPI,3,38.38,5.4,73.0,7,4.8,No,108.92
+TX-00014,2026-01-02 15:00:00,Webcam,North,Website,Regular,Card,2,69.49,10.6,7.0,4,3.2,Yes,124.25
+TX-00015,2026-01-02 18:00:00,Monitor,South,Website,Regular,UPI,3,178.92,12.2,4.0,3,4.9,Yes,471.28
+TX-00016,2026-01-02 21:00:00,Headphones,South,Mobile App,New,Card,3,53.12,3.4,10.0,4,4.2,No,153.94
+TX-00017,2026-01-03 00:00:00,Keyboard,West,Website,Regular,Wallet,3,46.11,9.7,74.0,2,4.2,No,124.91
+TX-00018,2026-01-03 03:00:00,Notebook,North,Mobile App,Regular,Card,2,8.08,11.9,84.0,6,3.1,No,14.24
+TX-00019,2026-01-03 06:00:00,Webcam,South,Mobile App,New,COD,2,67.18,11.1,84.0,4,4.0,No,119.45
+TX-00020,2026-01-03 09:00:00,Keyboard,South,Website,Enterprise,Wallet,14,44.62,8.7,28.0,3,4.9,No,570.33
+TX-00021,2026-01-03 12:00:00,Webcam,South,Website,New,Card,4,64.72,5.4,23.0,3,4.0,Yes,244.9
+TX-00022,2026-01-03 15:00:00,Headphones,West,Website,New,Card,4,55.06,4.2,30.0,4,4.6,Yes,210.99
+TX-00023,2026-01-03 18:00:00,Office Chair,South,Marketplace,Loyal,Card,2,181.05,13.6,69.0,5,4.2,No,312.85
+TX-00024,2026-01-03 21:00:00,Office Chair,South,Mobile App,New,Card,3,164.5,9.2,22.0,3,4.8,No,448.1
+TX-00025,2026-01-04 00:00:00,Webcam,East,Website,Loyal,Card,1,71.9,3.9,46.0,5,4.3,No,69.1
+TX-00026,2026-01-04 03:00:00,Notebook,West,Marketplace,Loyal,Bank Transfer,6,8.21,11.1,55.0,4,3.7,No,43.79
+TX-00027,2026-01-04 06:00:00,Monitor,North,Mobile App,New,UPI,4,216.37,10.4,31.0,3,4.2,No,775.47
+TX-00028,2026-01-04 09:00:00,Notebook,Central,Mobile App,Loyal,Card,1,10.19,12.4,40.0,3,5.0,No,8.93
+TX-00029,2026-01-04 12:00:00,Notebook,Central,Corporate,Regular,UPI,3,7.89,8.4,56.0,6,4.5,No,21.68
+TX-00030,2026-01-04 15:00:00,Keyboard,West,Website,Loyal,Card,4,43.76,10.9,67.0,2,4.1,No,155.96
+TX-00031,2026-01-04 18:00:00,Webcam,East,Website,Loyal,COD,1,67.1,8.8,16.0,3,5.0,No,61.2
+TX-00032,2026-01-04 21:00:00,Office Chair,West,Mobile App,Loyal,Card,3,163.34,11.9,44.0,5,4.8,No,431.71
+TX-00033,2026-01-05 00:00:00,Headphones,East,Website,Regular,Wallet,2,58.9,8.2,13.0,4,4.6,Yes,108.14
+TX-00034,2026-01-05 03:00:00,Headphones,South,Mobile App,Regular,Bank Transfer,1,51.35,9.8,2.0,3,4.4,No,46.32
+TX-00035,2026-01-05 06:00:00,Monitor,South,Website,Loyal,Card,3,207.85,14.1,55.0,5,4.6,No,535.63
+TX-00036,2026-01-05 09:00:00,Notebook,North,Website,Enterprise,Card,9,7.58,15.3,41.0,5,4.6,No,57.78
+TX-00037,2026-01-05 12:00:00,Notebook,Central,Website,Regular,UPI,1,7.25,11.3,22.0,4,3.0,No,6.43
+TX-00038,2026-01-05 15:00:00,Monitor,South,Website,Loyal,Bank Transfer,1,184.66,10.9,5.0,3,4.4,No,164.53
+TX-00039,2026-01-05 18:00:00,Headphones,South,Website,Regular,UPI,1,52.51,3.7,80.0,3,4.1,Yes,50.57
+TX-00040,2026-01-05 21:00:00,Keyboard,Central,Website,Loyal,Wallet,3,49.11,13.4,70.0,4,3.9,No,127.59
+TX-00041,2026-01-06 00:00:00,Monitor,East,Marketplace,Enterprise,Bank Transfer,15,224.38,15.4,79.0,2,4.1,No,2847.38
+TX-00042,2026-01-06 03:00:00,Webcam,West,Website,New,Bank Transfer,1,81.82,9.5,10.0,6,3.3,No,74.05
+TX-00043,2026-01-06 06:00:00,Keyboard,South,Website,Regular,UPI,2,48.51,4.2,2.0,6,3.2,No,92.95
+TX-00044,2026-01-06 09:00:00,Headphones,South,Website,Regular,UPI,2,57.96,13.4,19.0,4,4.9,No,100.39
+TX-00045,2026-01-06 12:00:00,Webcam,West,Website,Regular,Wallet,5,84.5,10.1,9.0,4,4.5,No,379.83
+TX-00046,2026-01-06 15:00:00,Webcam,East,Website,Regular,Card,4,69.32,7.1,39.0,6,2.9,No,257.59
+TX-00047,2026-01-06 18:00:00,Headphones,North,Mobile App,New,Bank Transfer,2,55.35,5.2,55.0,7,3.9,No,104.94
+TX-00048,2026-01-06 21:00:00,Headphones,Central,Website,Regular,Card,3,54.94,11.2,17.0,6,4.7,No,146.36
+TX-00049,2026-01-07 00:00:00,Keyboard,East,Marketplace,Regular,Card,250,52.51,4.7,34.0,2,4.0,Yes,12510.51
+TX-00050,2026-01-07 03:00:00,Notebook,West,Corporate,Regular,Bank Transfer,4,8.0,14.8,46.0,4,4.9,No,27.26
+TX-00051,2026-01-07 06:00:00,Notebook,South,Website,Loyal,UPI,2,7.5,10.2,27.0,5,4.8,No,13.47
+TX-00052,2026-01-07 09:00:00,Notebook,East,Website,Loyal,Card,4,8.48,17.2,39.0,3,3.5,No,28.09
+TX-00053,2026-01-07 12:00:00,Webcam,West,Website,Regular,Card,5,64.51,7.4,50.0,6,4.1,No,298.68
+TX-00054,2026-01-07 15:00:00,Keyboard,Central,Mobile App,Loyal,UPI,3,47.47,16.7,81.0,6,4.0,No,118.63
+TX-00055,2026-01-07 18:00:00,Keyboard,South,Website,Regular,Bank Transfer,2,46.9,5.8,27.0,3,3.4,No,88.36
+TX-00056,2026-01-07 21:00:00,Webcam,West,Marketplace,Regular,Card,2,68.69,8.1,8.0,4,3.4,No,126.25
+TX-00057,2026-01-08 00:00:00,Monitor,Central,Marketplace,Regular,Card,2,232.81,10.4,73.0,3,3.8,No,417.2
+TX-00058,2026-01-08 03:00:00,Keyboard,West,Marketplace,New,UPI,1,38.78,10.0,49.0,4,3.8,No,34.9
+TX-00059,2026-01-08 06:00:00,Notebook,North,Mobile App,Regular,COD,3,8.13,11.3,40.0,4,4.4,No,21.63
+TX-00060,2026-01-08 09:00:00,Notebook,North,Corporate,Regular,Card,5,7.64,6.5,61.0,5,4.8,No,35.72
+TX-00061,2026-01-08 12:00:00,Keyboard,South,Website,Loyal,COD,1,59.91,12.3,83.0,3,4.5,No,52.54
+TX-00062,2026-01-08 15:00:00,Monitor,North,Website,Loyal,Bank Transfer,5,223.46,15.7,11.0,1,4.6,No,941.88
+TX-00063,2026-01-08 18:00:00,Keyboard,West,Website,New,Card,4,42.39,5.9,73.0,2,4.1,No,159.56
+TX-00064,2026-01-08 21:00:00,Webcam,Central,Corporate,Regular,Bank Transfer,2,60.99,9.7,54.0,3,4.5,No,110.15
+TX-00065,2026-01-09 00:00:00,Keyboard,East,Mobile App,Regular,Wallet,4,51.27,7.3,50.0,3,4.1,No,190.11
+TX-00066,2026-01-09 03:00:00,Keyboard,East,Marketplace,Loyal,UPI,3,43.45,12.6,73.0,4,4.0,No,113.93
+TX-00067,2026-01-09 06:00:00,Keyboard,West,Website,Loyal,UPI,6,41.58,12.3,26.0,3,5.0,No,218.79
+TX-00068,2026-01-09 09:00:00,Headphones,East,Corporate,Regular,Bank Transfer,4,56.88,5.6,67.0,2,2.9,No,214.78
+TX-00069,2026-01-09 12:00:00,Notebook,East,Mobile App,Regular,Bank Transfer,2,8.54,7.2,48.0,3,3.2,No,15.85
+TX-00070,2026-01-09 15:00:00,Monitor,East,Mobile App,Regular,Wallet,2,234.4,8.4,79.0,3,4.4,Yes,429.42
+TX-00071,2026-01-09 18:00:00,Headphones,South,Corporate,Regular,COD,3,55.11,7.7,40.0,3,4.1,No,152.6
+TX-00072,2026-01-09 21:00:00,Monitor,North,Website,Loyal,UPI,1,223.53,16.7,61.0,3,3.4,No,186.2
+TX-00073,2026-01-10 00:00:00,Webcam,East,Website,Loyal,Bank Transfer,9,71.64,15.0,42.0,5,3.6,No,548.05
+TX-00074,2026-01-10 03:00:00,Headphones,Central,Mobile App,Regular,Bank Transfer,6,56.88,8.9,34.0,3,3.7,No,310.91
+TX-00075,2026-01-10 06:00:00,Notebook,North,Website,Regular,Card,7,8.35,5.7,32.0,4,4.7,No,55.12
+TX-00076,2026-01-10 09:00:00,Headphones,South,Website,New,Card,2,61.36,5.5,78.0,3,4.9,No,115.97
+TX-00077,2026-01-10 12:00:00,Headphones,South,Website,New,UPI,2,55.31,13.9,71.0,5,5.0,No,95.24
+TX-00078,2026-01-10 15:00:00,Keyboard,Central,Website,New,Bank Transfer,3,41.47,5.0,19.0,4,3.3,No,118.19
+TX-00079,2026-01-10 18:00:00,Keyboard,East,Marketplace,Regular,Card,3,44.36,8.3,73.0,5,3.4,No,122.03
+TX-00080,2026-01-10 21:00:00,Webcam,East,Mobile App,Enterprise,Wallet,10,75.48,16.1,50.0,3,3.4,No,633.28
+TX-00081,2026-01-11 00:00:00,Keyboard,West,Website,Regular,Card,2,37.64,7.1,9.0,4,4.9,No,69.94
+TX-00082,2026-01-11 03:00:00,Monitor,South,Website,Regular,UPI,5,184.11,5.0,65.0,3,4.4,No,874.52
+TX-00083,2026-01-11 06:00:00,Webcam,West,Website,New,UPI,4,76.73,5.6,14.0,2,4.2,Yes,289.73
+TX-00084,2026-01-11 09:00:00,Notebook,North,Mobile App,Regular,Card,2,9.31,6.4,74.0,4,4.3,No,17.43
+TX-00085,2026-01-11 12:00:00,Notebook,North,Corporate,Loyal,Bank Transfer,2,7.05,9.9,39.0,6,4.2,No,12.7
+TX-00086,2026-01-11 15:00:00,Notebook,Central,Corporate,Regular,Card,4,8.08,12.0,77.0,3,3.6,No,28.44
+TX-00087,2026-01-11 18:00:00,Webcam,West,Website,Loyal,COD,2,67.26,12.0,41.0,4,4.5,No,118.38
+TX-00088,2026-01-11 21:00:00,Monitor,North,Website,Loyal,Card,3,214.34,10.4,8.0,2,4.1,No,576.15
+TX-00089,2026-01-12 00:00:00,Notebook,East,Mobile App,New,COD,2,8.25,8.3,65.0,2,3.5,No,15.13
+TX-00090,2026-01-12 03:00:00,Monitor,North,Mobile App,Regular,UPI,3,193.32,10.0,61.0,3,4.5,No,521.96
+TX-00091,2026-01-12 06:00:00,Notebook,West,Mobile App,Enterprise,Card,12,7.16,14.0,26.0,3,4.0,No,73.89
+TX-00092,2026-01-12 09:00:00,Keyboard,West,Mobile App,Regular,Card,2,43.66,10.7,18.0,3,4.3,Yes,77.98
+TX-00093,2026-01-12 12:00:00,Monitor,South,Mobile App,New,Card,4,216.82,4.2,73.0,4,4.1,No,830.85
+TX-00094,2026-01-12 15:00:00,Headphones,South,Website,Enterprise,UPI,13,49.14,18.5,66.0,2,4.7,No,520.64
+TX-00095,2026-01-12 18:00:00,Headphones,South,Website,Loyal,Bank Transfer,2,59.52,12.0,26.0,3,4.3,No,104.76
+TX-00096,2026-01-12 21:00:00,Keyboard,South,Website,Regular,UPI,1,43.16,7.9,59.0,5,3.7,No,39.75
+TX-00097,2026-01-13 00:00:00,Headphones,South,Website,Regular,UPI,3,52.73,5.9,21.0,2,4.4,No,148.86
+TX-00098,2026-01-13 03:00:00,Notebook,South,Website,Regular,UPI,4,8.23,4.3,16.0,4,4.4,No,31.5
+TX-00099,2026-01-13 06:00:00,Notebook,East,Mobile App,Loyal,UPI,2,7.9,7.0,56.0,4,4.5,No,14.69
+TX-00100,2026-01-13 09:00:00,Office Chair,Central,Website,Regular,Wallet,2,195.72,5.7,70.0,3,4.8,No,369.13
+TX-00101,2026-01-13 12:00:00,Office Chair,West,Website,New,UPI,2,163.96,9.8,78.0,4,3.9,No,295.78
+TX-00102,2026-01-13 15:00:00,Keyboard,South,Mobile App,Loyal,Wallet,3,39.13,9.1,39.0,2,4.6,No,106.71
+TX-00103,2026-01-13 18:00:00,Headphones,Central,Marketplace,Enterprise,COD,10,53.32,10.4,13.0,5,3.3,No,477.75
+TX-00104,2026-01-13 21:00:00,Office Chair,South,Website,Loyal,UPI,4,181.09,9.3,46.0,4,4.1,No,656.99
+TX-00105,2026-01-14 00:00:00,Webcam,Central,Marketplace,Regular,Card,3,61.83,6.8,58.0,4,4.0,No,172.88
+TX-00106,2026-01-14 03:00:00,Keyboard,South,Corporate,New,Card,3,39.17,7.0,82.0,5,5.0,No,109.28
+TX-00107,2026-01-14 06:00:00,Monitor,East,Mobile App,Enterprise,UPI,7,224.05,14.6,10.0,4,4.1,No,1339.37
+TX-00108,2026-01-14 09:00:00,Headphones,South,Mobile App,Enterprise,UPI,10,50.99,18.1,56.0,3,4.5,No,417.61
+TX-00109,2026-01-14 12:00:00,Notebook,West,Website,Regular,COD,3,6.92,11.7,44.0,6,3.2,No,18.33
+TX-00110,2026-01-14 15:00:00,Office Chair,South,Corporate,Regular,UPI,4,198.24,14.0,50.0,6,4.0,No,681.95
+TX-00111,2026-01-14 18:00:00,Monitor,Central,Website,Regular,UPI,3,206.53,3.1,8.0,3,3.7,No,600.38
+TX-00112,2026-01-14 21:00:00,Headphones,North,Corporate,Regular,Bank Transfer,5,61.7,5.4,2.0,4,5.0,No,291.84
+TX-00113,2026-01-15 00:00:00,Headphones,East,Mobile App,New,Card,3,55.16,10.1,51.0,5,3.8,No,148.77
+TX-00114,2026-01-15 03:00:00,Keyboard,North,Website,New,Bank Transfer,1,46.35,6.6,17.0,4,4.2,No,43.29
+TX-00115,2026-01-15 06:00:00,Notebook,Central,Website,Regular,Card,1,7.83,10.6,52.0,5,4.3,No,7.0
+TX-00116,2026-01-15 09:00:00,Webcam,East,Mobile App,Loyal,UPI,4,53.68,12.6,3.0,5,3.3,No,187.67
+TX-00117,2026-01-15 12:00:00,Webcam,West,Mobile App,New,COD,3,62.48,12.7,68.0,3,3.9,No,163.64
+TX-00118,2026-01-15 15:00:00,Keyboard,Central,Website,Regular,Bank Transfer,3,44.44,11.1,28.0,5,4.4,No,118.52
+TX-00119,2026-01-15 18:00:00,Monitor,East,Mobile App,Regular,Bank Transfer,4,228.17,11.2,38.0,4,4.2,No,810.46
+TX-00120,2026-01-15 21:00:00,Keyboard,North,Marketplace,Regular,UPI,2,-499.0,6.8,29.0,2,2.9,No,-930.14
+TX-00121,2026-01-16 00:00:00,Keyboard,South,Mobile App,New,Bank Transfer,3,44.76,7.7,36.0,3,3.9,No,123.94
+TX-00122,2026-01-16 03:00:00,Keyboard,South,Mobile App,Regular,UPI,4,40.22,7.1,45.0,3,4.8,No,149.46
+TX-00123,2026-01-16 06:00:00,Notebook,Central,Website,Regular,UPI,4,8.19,3.5,55.0,5,4.5,No,31.61
+TX-00124,2026-01-16 09:00:00,Monitor,Central,Marketplace,Regular,Card,4,219.57,12.4,58.0,5,4.9,No,769.37
+TX-00125,2026-01-16 12:00:00,Notebook,East,Website,Loyal,Card,2,8.62,14.2,84.0,5,3.7,No,14.79
+TX-00126,2026-01-16 15:00:00,Monitor,Central,Marketplace,New,UPI,1,244.77,7.0,16.0,5,4.9,No,227.64
+TX-00127,2026-01-16 18:00:00,Headphones,South,Website,Loyal,Card,5,57.58,15.9,74.0,5,4.2,No,242.12
+TX-00128,2026-01-16 21:00:00,Notebook,West,Mobile App,Loyal,Wallet,5,8.72,10.1,51.0,4,5.0,No,39.2
+TX-00129,2026-01-17 00:00:00,Notebook,South,Website,Loyal,Bank Transfer,2,7.72,6.5,27.0,5,4.2,No,14.44
+TX-00130,2026-01-17 03:00:00,Keyboard,South,Website,Regular,COD,3,59.68,11.0,78.0,5,3.1,No,159.35
+TX-00131,2026-01-17 06:00:00,Notebook,South,Marketplace,Regular,Card,2,7.08,4.2,60.0,2,4.7,No,13.57
+TX-00132,2026-01-17 09:00:00,Office Chair,East,Mobile App,Regular,COD,6,170.75,7.4,16.0,3,4.0,No,948.69
+TX-00133,2026-01-17 12:00:00,Keyboard,South,Mobile App,Loyal,Card,3,49.24,12.6,15.0,3,4.0,Yes,129.11
+TX-00134,2026-01-17 15:00:00,Headphones,South,Corporate,New,UPI,1,59.3,9.2,56.0,5,3.4,No,53.84
+TX-00135,2026-01-17 18:00:00,Keyboard,South,Corporate,Enterprise,Bank Transfer,16,47.25,17.5,62.0,6,5.0,No,623.7
+TX-00136,2026-01-17 21:00:00,Notebook,North,Marketplace,Regular,Card,2,8.56,9.7,4.0,1,3.9,No,15.46
+TX-00137,2026-01-18 00:00:00,Office Chair,Central,Website,Loyal,Card,3,146.15,13.6,53.0,6,5.0,No,378.82
+TX-00138,2026-01-18 03:00:00,Monitor,South,Mobile App,Regular,Card,4,257.9,5.6,45.0,4,4.0,No,973.83
+TX-00139,2026-01-18 06:00:00,Webcam,North,Marketplace,New,UPI,6,68.59,8.9,82.0,5,3.7,No,374.91
+TX-00140,2026-01-18 09:00:00,Notebook,East,Website,Regular,Bank Transfer,4,9.06,3.5,63.0,5,4.9,No,34.97
+TX-00141,2026-01-18 12:00:00,Monitor,Central,Website,Regular,Card,5,179.52,12.7,77.0,6,4.2,No,783.6
+TX-00142,2026-01-18 15:00:00,Monitor,South,Marketplace,Regular,Card,1,225.72,3.8,3.0,4,4.2,No,217.14
+TX-00143,2026-01-18 18:00:00,Office Chair,Central,Mobile App,Regular,UPI,3,170.14,7.0,65.0,2,3.5,No,474.69
+TX-00144,2026-01-18 21:00:00,Keyboard,West,Mobile App,Regular,Card,3,47.65,4.0,29.0,4,3.9,No,137.23
+TX-00145,2026-01-19 00:00:00,Monitor,West,Corporate,Regular,Wallet,4,227.09,5.8,47.0,5,4.4,No,855.68
+TX-00146,2026-01-19 03:00:00,Headphones,South,Mobile App,Regular,COD,1,57.05,8.0,74.0,4,3.5,No,52.49
+TX-00147,2026-01-19 06:00:00,Headphones,North,Website,Enterprise,Bank Transfer,13,49.47,13.4,74.0,5,3.9,No,556.93
+TX-00148,2026-01-19 09:00:00,Monitor,South,Website,New,Bank Transfer,3,218.75,11.4,19.0,4,4.0,No,581.44
+TX-00149,2026-01-19 12:00:00,Monitor,Central,Website,Regular,UPI,2,216.07,8.7,21.0,3,4.2,No,394.54
+TX-00150,2026-01-19 15:00:00,Notebook,West,Website,Regular,Bank Transfer,3,8.41,6.6,61.0,3,5.0,No,23.56
+TX-00151,2026-01-19 18:00:00,Webcam,West,Marketplace,Regular,Card,8,77.28,7.6,74.0,3,4.0,Yes,571.25
+TX-00152,2026-01-19 21:00:00,Office Chair,Central,Marketplace,Regular,Card,6,182.73,11.7,52.0,4,3.8,No,968.1
+TX-00153,2026-01-20 00:00:00,Notebook,South,Website,Regular,Wallet,3,7.04,10.7,5.0,1,5.0,No,18.86
+TX-00154,2026-01-20 03:00:00,Keyboard,South,Website,Enterprise,Card,11,45.49,11.6,14.0,3,4.0,No,442.34
+TX-00155,2026-01-20 06:00:00,Notebook,Central,Marketplace,Regular,Bank Transfer,4,10.39,6.0,63.0,1,4.1,No,39.07
+TX-00156,2026-01-20 09:00:00,Keyboard,East,Website,Loyal,Wallet,1,53.05,13.4,63.0,3,4.0,No,45.94
+TX-00157,2026-01-20 12:00:00,Headphones,South,Mobile App,New,COD,3,40.85,9.1,76.0,6,4.0,Yes,111.4
+TX-00158,2026-01-20 15:00:00,Keyboard,South,Mobile App,Regular,Card,3,45.29,4.8,45.0,2,4.2,No,129.35
+TX-00159,2026-01-20 18:00:00,Webcam,Central,Mobile App,Regular,UPI,1,76.84,10.2,36.0,5,4.7,No,69.0
+TX-00160,2026-01-20 21:00:00,Webcam,North,Website,New,Wallet,2,68.74,5.3,10.0,8,4.4,No,130.19
+TX-00161,2026-01-21 00:00:00,Notebook,North,Mobile App,Regular,Card,1,7.64,11.9,66.0,6,4.8,No,6.73
+TX-00162,2026-01-21 03:00:00,Office Chair,West,Website,Loyal,UPI,3,175.26,13.6,80.0,4,4.8,No,454.27
+TX-00163,2026-01-21 06:00:00,Headphones,North,Mobile App,Loyal,Wallet,4,58.12,8.6,4.0,5,4.3,No,212.49
+TX-00164,2026-01-21 09:00:00,Notebook,North,Website,Regular,COD,2,7.13,6.4,42.0,2,4.4,Yes,13.35
+TX-00165,2026-01-21 12:00:00,Keyboard,Central,Mobile App,Regular,Wallet,3,50.68,6.4,30.0,2,4.8,No,142.31
+TX-00166,2026-01-21 15:00:00,Headphones,East,Mobile App,Regular,Card,4,54.69,8.5,63.0,4,3.6,No,200.17
+TX-00167,2026-01-21 18:00:00,Webcam,West,Website,New,UPI,5,63.75,7.4,65.0,5,5.0,No,295.16
+TX-00168,2026-01-21 21:00:00,Webcam,East,Website,New,UPI,5,78.33,4.6,19.0,5,3.9,No,373.63
+TX-00169,2026-01-22 00:00:00,Headphones,North,Website,Loyal,Card,3,47.13,7.8,80.0,3,4.0,No,130.36
+TX-00170,2026-01-22 03:00:00,Office Chair,North,Website,Enterprise,UPI,11,170.28,16.6,12.0,4,3.5,No,1562.15
+TX-00171,2026-01-22 06:00:00,Headphones,West,Website,New,Card,7,51.94,8.9,66.0,4,3.5,No,331.22
+TX-00172,2026-01-22 09:00:00,Monitor,North,Corporate,Regular,Card,4,272.6,8.3,63.0,4,4.7,No,999.9
+TX-00173,2026-01-22 12:00:00,Headphones,East,Website,Loyal,UPI,3,51.36,12.8,14.0,4,5.0,No,134.36
+TX-00174,2026-01-22 15:00:00,Office Chair,South,Marketplace,Loyal,Card,4,145.11,10.1,57.0,3,3.9,No,521.82
+TX-00175,2026-01-22 18:00:00,Notebook,South,Corporate,Regular,UPI,4,7.55,8.6,23.0,4,4.4,No,27.6
+TX-00176,2026-01-22 21:00:00,Notebook,Central,Website,Regular,Card,2,8.37,15.6,24.0,4,4.3,No,14.13
+TX-00177,2026-01-23 00:00:00,Monitor,West,Mobile App,Loyal,Wallet,4,237.94,15.5,8.0,3,4.8,No,804.24
+TX-00178,2026-01-23 03:00:00,Office Chair,West,Marketplace,Loyal,Card,3,226.02,11.1,63.0,5,5.0,No,602.8
+TX-00179,2026-01-23 06:00:00,Office Chair,South,Mobile App,New,Bank Transfer,2,207.19,6.4,68.0,5,5.0,Yes,387.86
+TX-00180,2026-01-23 09:00:00,Webcam,South,Website,Enterprise,Card,12,71.33,6.4,43.0,5,4.1,No,801.18
+TX-00181,2026-01-23 12:00:00,Office Chair,West,Website,New,UPI,5,164.65,11.2,66.0,3,4.5,No,731.05
+TX-00182,2026-01-23 15:00:00,Office Chair,North,Website,Loyal,Card,1,211.74,14.4,30.0,4,4.5,Yes,181.25
+TX-00183,2026-01-23 18:00:00,Monitor,South,Mobile App,New,Card,2,212.04,6.4,48.0,3,4.2,Yes,396.94
+TX-00184,2026-01-23 21:00:00,Headphones,West,Corporate,New,UPI,4,51.5,3.7,67.0,4,3.6,No,198.38
+TX-00185,2026-01-24 00:00:00,Webcam,West,Corporate,New,Bank Transfer,3,67.14,4.5,37.0,3,3.8,No,192.36
+TX-00186,2026-01-24 03:00:00,Keyboard,North,Website,Regular,COD,1,39.7,9.3,52.0,6,4.8,No,36.01
+TX-00187,2026-01-24 06:00:00,Headphones,West,Mobile App,Regular,Card,2,52.5,7.7,13.0,5,4.9,No,96.92
+TX-00188,2026-01-24 09:00:00,Notebook,East,Website,New,Card,2,7.82,10.1,43.0,5,4.1,No,14.06
+TX-00189,2026-01-24 12:00:00,Webcam,South,Corporate,Regular,Wallet,1,75.31,8.3,72.0,5,4.3,Yes,69.06
+TX-00190,2026-01-24 15:00:00,Headphones,West,Website,Regular,UPI,4,52.91,10.9,65.0,4,4.9,No,188.57
+TX-00191,2026-01-24 18:00:00,Office Chair,Central,Corporate,Loyal,Card,3,158.57,13.1,26.0,3,3.3,No,413.39
+TX-00192,2026-01-24 21:00:00,Headphones,East,Marketplace,Loyal,Bank Transfer,2,46.85,14.5,46.0,6,4.0,No,80.11
+TX-00193,2026-01-25 00:00:00,Notebook,South,Website,Loyal,UPI,6,8.17,5.7,53.0,4,5.0,No,46.23
+TX-00194,2026-01-25 03:00:00,Webcam,South,Website,New,Wallet,4,70.51,4.3,79.0,2,4.4,No,269.91
+TX-00195,2026-01-25 06:00:00,Notebook,East,Marketplace,Regular,UPI,2,7.57,6.9,70.0,5,3.6,No,14.1
+TX-00196,2026-01-25 09:00:00,Notebook,North,Website,Loyal,UPI,2,7.63,15.2,69.0,4,4.3,Yes,12.94
+TX-00197,2026-01-25 12:00:00,Keyboard,East,Mobile App,New,Card,3,46.78,13.6,64.0,6,4.8,No,121.25
+TX-00198,2026-01-25 15:00:00,Webcam,North,Corporate,Regular,Wallet,2,80.44,7.5,31.0,4,2.8,No,148.81
+TX-00199,2026-01-25 18:00:00,Notebook,North,Mobile App,Enterprise,Card,9,7.4,13.2,32.0,4,4.3,No,57.81
+TX-00200,2026-01-25 21:00:00,Headphones,East,Website,Enterprise,Bank Transfer,19,55.49,9.1,40.0,6,4.0,Yes,958.37
+TX-00201,2026-01-26 00:00:00,Webcam,West,Website,Regular,Bank Transfer,4,77.04,10.6,36.0,2,3.3,No,275.5
+TX-00202,2026-01-26 03:00:00,Office Chair,Central,Website,Loyal,Wallet,1,166.56,10.3,81.0,3,4.2,No,149.4
+TX-00203,2026-01-26 06:00:00,Monitor,North,Corporate,Regular,Card,1,219.66,16.9,74.0,3,4.1,No,182.54
+TX-00204,2026-01-26 09:00:00,Notebook,South,Website,Loyal,Card,5,7.97,9.8,76.0,1,4.2,No,35.94
+TX-00205,2026-01-26 12:00:00,Notebook,East,Website,New,UPI,3,7.02,14.3,52.0,5,4.0,No,18.05
+TX-00206,2026-01-26 15:00:00,Headphones,East,Website,New,UPI,2,55.93,10.2,17.0,3,3.6,No,100.45
+TX-00207,2026-01-26 18:00:00,Notebook,Central,Corporate,Regular,COD,6,8.03,4.9,13.0,5,3.4,No,45.82
+TX-00208,2026-01-26 21:00:00,Keyboard,West,Website,Regular,UPI,4,47.57,96.0,24.0,5,3.8,Yes,7.61
+TX-00209,2026-01-27 00:00:00,Notebook,East,Marketplace,Loyal,Bank Transfer,2,7.1,14.3,55.0,5,4.7,Yes,12.17
+TX-00210,2026-01-27 03:00:00,Monitor,North,Mobile App,Regular,Card,5,220.22,7.3,31.0,3,4.3,No,1020.72
+TX-00211,2026-01-27 06:00:00,Keyboard,North,Marketplace,Loyal,UPI,1,51.67,14.5,56.0,3,4.2,Yes,44.18
+TX-00212,2026-01-27 09:00:00,Keyboard,North,Corporate,Loyal,Card,2,55.39,14.4,74.0,4,3.6,No,94.83
+TX-00213,2026-01-27 12:00:00,Notebook,West,Marketplace,Regular,Wallet,3,9.09,9.8,29.0,5,4.0,No,24.6
+TX-00214,2026-01-27 15:00:00,Webcam,South,Corporate,Loyal,Card,3,62.23,12.0,78.0,4,4.6,Yes,164.29
+TX-00215,2026-01-27 18:00:00,Keyboard,South,Website,Regular,Card,5,47.08,4.5,44.0,3,4.5,No,224.81
+TX-00216,2026-01-27 21:00:00,Webcam,West,Marketplace,Regular,Bank Transfer,4,66.7,7.8,68.0,2,3.9,No,245.99
+TX-00217,2026-01-28 00:00:00,Notebook,Central,Mobile App,New,UPI,2,8.23,8.5,6.0,4,2.8,No,15.06
+TX-00218,2026-01-28 03:00:00,Notebook,East,Mobile App,Loyal,Card,3,7.41,6.4,24.0,3,3.8,No,20.81
+TX-00219,2026-01-28 06:00:00,Office Chair,Central,Marketplace,Loyal,Card,6,151.66,12.5,79.0,4,3.9,No,796.22
+TX-00220,2026-01-28 09:00:00,Monitor,West,Corporate,Loyal,UPI,5,212.55,11.7,75.0,4,3.7,Yes,938.41
+TX-00221,2026-01-28 12:00:00,Headphones,West,Mobile App,Loyal,Card,2,59.12,8.1,48.0,3,4.0,No,108.66
+TX-00222,2026-01-28 15:00:00,Monitor,Central,Mobile App,Enterprise,Card,12,226.43,14.0,3.0,4,4.6,No,2336.76
+TX-00223,2026-01-28 18:00:00,Keyboard,North,Mobile App,Regular,UPI,2,46.85,7.1,6.0,5,4.2,No,87.05
+TX-00224,2026-01-28 21:00:00,Office Chair,West,Website,Enterprise,Card,20,183.94,20.8,36.0,7,4.7,No,2913.61
+TX-00225,2026-01-29 00:00:00,Headphones,Central,Website,Regular,UPI,4,57.27,8.7,76.0,5,3.4,No,209.15
+TX-00226,2026-01-29 03:00:00,Office Chair,Central,Website,Regular,UPI,4,189.79,11.1,32.0,6,4.0,No,674.89
+TX-00227,2026-01-29 06:00:00,Notebook,East,Website,Regular,Card,2,7.78,7.6,75.0,3,3.1,No,14.38
+TX-00228,2026-01-29 09:00:00,Keyboard,West,Website,Regular,Card,1,45.37,2.4,45.0,2,4.0,No,44.28
+TX-00229,2026-01-29 12:00:00,Keyboard,Central,Marketplace,Regular,Card,3,53.57,10.0,12.0,4,3.6,No,144.64
+TX-00230,2026-01-29 15:00:00,Notebook,Central,Website,Regular,Card,3,8.11,6.0,48.0,5,4.9,No,22.87
+TX-00231,2026-01-29 18:00:00,Notebook,Central,Corporate,New,Card,2,8.03,7.0,31.0,5,4.4,No,14.94
+TX-00232,2026-01-29 21:00:00,Monitor,Central,Mobile App,Regular,COD,4,222.28,4.8,19.0,6,4.8,No,846.44
+TX-00233,2026-01-30 00:00:00,Office Chair,South,Website,Loyal,Bank Transfer,3,176.12,12.2,57.0,1,4.0,No,463.9
+TX-00234,2026-01-30 03:00:00,Keyboard,West,Website,Regular,UPI,3,43.08,11.2,18.0,6,3.6,No,114.77
+TX-00235,2026-01-30 06:00:00,Office Chair,East,Website,Regular,UPI,5,183.8,10.8,77.0,4,3.6,No,819.75
+TX-00236,2026-01-30 09:00:00,Webcam,Central,Corporate,Regular,UPI,3,66.55,12.8,68.0,2,4.3,No,174.09
+TX-00237,2026-01-30 12:00:00,Monitor,Central,Website,Regular,Bank Transfer,4,216.82,13.2,66.0,5,5.0,Yes,752.8
+TX-00238,2026-01-30 15:00:00,Webcam,Central,Mobile App,Regular,Card,1,64.68,1.9,7.0,4,4.4,No,63.45
+TX-00239,2026-01-30 18:00:00,Notebook,East,Corporate,Loyal,Card,1,8.09,8.4,81.0,4,4.0,No,7.41
+TX-00240,2026-01-30 21:00:00,Notebook,East,Corporate,New,Card,3,8.48,2.6,42.0,5,4.1,No,24.78
+TX-00241,2026-01-31 00:00:00,Webcam,North,Website,Loyal,Card,4,68.53,13.9,62.0,5,4.2,Yes,236.02
+TX-00242,2026-01-31 03:00:00,Webcam,West,Website,Loyal,Card,3,57.26,9.9,17.0,2,5.0,No,154.77
+TX-00243,2026-01-31 06:00:00,Headphones,East,Website,Regular,Bank Transfer,2,58.34,6.5,65.0,4,4.9,No,109.1
+TX-00244,2026-01-31 09:00:00,Keyboard,East,Website,Loyal,COD,1,45.54,11.4,27.0,2,4.3,Yes,40.35
+TX-00245,2026-01-31 12:00:00,Keyboard,West,Website,Regular,Card,3,40.75,9.1,60.0,5,4.3,No,111.13
+TX-00246,2026-01-31 15:00:00,Webcam,Central,Mobile App,Loyal,UPI,4,75.63,7.5,24.0,6,4.4,No,279.83
+TX-00247,2026-01-31 18:00:00,Keyboard,North,Corporate,Loyal,UPI,1,39.13,8.2,79.0,2,4.5,No,35.92
+TX-00248,2026-01-31 21:00:00,Monitor,East,Mobile App,Loyal,UPI,4,244.24,12.0,60.0,3,4.0,Yes,859.72
+TX-00249,2026-02-01 00:00:00,Headphones,West,Mobile App,Loyal,UPI,5,54.69,15.6,38.0,3,3.7,No,230.79
+TX-00250,2026-02-01 03:00:00,Monitor,Central,Website,Loyal,Card,1,175.34,11.9,39.0,3,4.8,No,154.47
+TX-00251,2026-02-01 06:00:00,Keyboard,West,Marketplace,Enterprise,Bank Transfer,12,45.81,12.6,1.0,5,4.2,No,480.46
+TX-00252,2026-02-01 09:00:00,Webcam,West,Mobile App,Regular,COD,4,67.21,1.6,26.0,3,4.7,No,264.54
+TX-00253,2026-02-01 12:00:00,Monitor,Central,Marketplace,Loyal,Wallet,6,208.08,14.9,67.0,5,5.0,Yes,1062.46
+TX-00254,2026-02-01 15:00:00,Headphones,Central,Corporate,Loyal,Wallet,4,51.09,9.8,70.0,5,4.5,No,184.33
+TX-00255,2026-02-01 18:00:00,Headphones,West,Website,Regular,UPI,3,54.3,4.6,84.0,5,4.4,No,155.41
+TX-00256,2026-02-01 21:00:00,Webcam,South,Website,Enterprise,Card,16,66.68,9.9,8.0,3,5.0,No,961.26
+TX-00257,2026-02-02 00:00:00,Webcam,East,Website,Regular,Card,4,58.14,3.7,22.0,6,4.3,No,223.96
+TX-00258,2026-02-02 03:00:00,Notebook,West,Website,Regular,UPI,4,9.09,5.1,65.0,6,3.6,No,34.51
+TX-00259,2026-02-02 06:00:00,Notebook,North,Corporate,New,Card,1,7.81,7.3,31.0,6,4.0,No,7.24
+TX-00260,2026-02-02 09:00:00,Keyboard,West,Website,Regular,Bank Transfer,4,41.82,4.4,21.0,4,5.0,No,159.92
+TX-00261,2026-02-02 12:00:00,Notebook,East,Marketplace,Loyal,UPI,6,7.15,12.6,24.0,3,3.5,Yes,37.49
+TX-00262,2026-02-02 15:00:00,Webcam,Central,Mobile App,Regular,UPI,4,75.61,7.3,78.0,3,3.8,No,280.36
+TX-00263,2026-02-02 18:00:00,Headphones,South,Website,Regular,Card,4,48.3,14.7,73.0,3,4.8,No,164.8
+TX-00264,2026-02-02 21:00:00,Notebook,Central,Website,Regular,COD,4,8.11,2.9,1.0,4,4.1,Yes,31.5
+TX-00265,2026-02-03 00:00:00,Office Chair,East,Mobile App,Regular,Card,4,169.8,8.5,71.0,5,4.1,No,621.47
+TX-00266,2026-02-03 03:00:00,Notebook,East,Mobile App,Loyal,Card,5,7.59,12.5,47.0,6,4.8,No,33.21
+TX-00267,2026-02-03 06:00:00,Headphones,West,Website,Loyal,Card,1,49.25,8.9,71.0,3,3.8,Yes,44.87
+TX-00268,2026-02-03 09:00:00,Notebook,East,Website,New,Wallet,2,7.52,8.3,53.0,4,3.4,No,13.79
+TX-00269,2026-02-03 12:00:00,Notebook,Central,Mobile App,Regular,COD,3,8.01,10.3,58.0,4,3.4,Yes,21.55
+TX-00270,2026-02-03 15:00:00,Notebook,North,Website,Regular,Card,4,8.19,8.3,49.0,3,4.5,No,30.04
+TX-00271,2026-02-03 18:00:00,Notebook,West,Corporate,Regular,COD,2,7.4,12.2,62.0,5,4.3,No,12.99
+TX-00272,2026-02-03 21:00:00,Notebook,Central,Website,Regular,Card,4,7.93,1.5,69.0,4,3.8,No,31.24
+TX-00273,2026-02-04 00:00:00,Notebook,South,Website,Regular,Wallet,3,8.74,5.5,43.0,4,3.6,No,24.78
+TX-00274,2026-02-04 03:00:00,Keyboard,South,Mobile App,Regular,Card,4,38.11,12.4,10.0,4,4.1,No,133.54
+TX-00275,2026-02-04 06:00:00,Keyboard,East,Mobile App,Regular,UPI,3,44.97,10.7,8.0,5,4.8,No,120.47
+TX-00276,2026-02-04 09:00:00,Monitor,West,Mobile App,Regular,Wallet,2,200.05,9.6,35.0,5,3.7,No,361.69
+TX-00277,2026-02-04 12:00:00,Headphones,Central,Website,Regular,UPI,3,49.5,11.7,40.0,3,3.8,No,131.13
+TX-00278,2026-02-04 15:00:00,Monitor,West,Corporate,Loyal,Card,4,225.82,6.3,73.0,5,3.5,No,846.37
+TX-00279,2026-02-04 18:00:00,Webcam,West,Mobile App,Loyal,Bank Transfer,2,66.29,14.4,3.0,4,4.0,No,113.49
+TX-00280,2026-02-04 21:00:00,Webcam,East,Mobile App,Regular,COD,4,61.98,11.2,75.0,3,4.4,No,220.15
+TX-00281,2026-02-05 00:00:00,Notebook,West,Website,Loyal,UPI,2,9.13,10.0,5.0,4,5.0,No,16.43
+TX-00282,2026-02-05 03:00:00,Notebook,South,Website,Loyal,UPI,3,8.77,19.9,42.0,4,4.3,No,21.07
+TX-00283,2026-02-05 06:00:00,Headphones,East,Mobile App,New,Bank Transfer,3,45.34,8.6,36.0,5,4.2,No,124.32
+TX-00284,2026-02-05 09:00:00,Headphones,North,Website,Regular,Card,2,47.46,1.4,47.0,3,4.7,No,93.59
+TX-00285,2026-02-05 12:00:00,Keyboard,North,Mobile App,Regular,Bank Transfer,1,47.75,9.1,4.0,6,4.6,No,43.4
+TX-00286,2026-02-05 15:00:00,Monitor,Central,Website,Loyal,Card,1,213.82,9.8,65.0,4,3.9,No,192.87
+TX-00287,2026-02-05 18:00:00,Notebook,Central,Corporate,Regular,Bank Transfer,5,9.3,11.5,12.0,3,5.0,No,41.15
+TX-00288,2026-02-05 21:00:00,Headphones,East,Mobile App,Loyal,Card,6,58.5,13.6,66.0,3,4.2,No,303.26
+TX-00289,2026-02-06 00:00:00,Monitor,North,Marketplace,Regular,Card,3,226.69,6.2,48.0,3,4.3,Yes,637.91
+TX-00290,2026-02-06 03:00:00,Notebook,North,Mobile App,Regular,UPI,7,7.22,12.5,75.0,2,4.5,No,44.22
+TX-00291,2026-02-06 06:00:00,Webcam,North,Website,Enterprise,UPI,13,73.53,17.8,83.0,5,4.4,No,785.74
+TX-00292,2026-02-06 09:00:00,Notebook,West,Marketplace,Regular,Bank Transfer,1,7.04,5.5,71.0,7,5.0,No,6.65
+TX-00293,2026-02-06 12:00:00,Office Chair,South,Mobile App,Loyal,COD,4,205.1,11.5,38.0,2,3.9,Yes,726.05
+TX-00294,2026-02-06 15:00:00,Notebook,South,Marketplace,Enterprise,Card,9,8.34,16.6,35.0,3,4.6,No,62.6
+TX-00295,2026-02-06 18:00:00,Webcam,Central,Website,Loyal,Card,4,64.46,10.9,56.0,5,4.3,No,229.74
+TX-00296,2026-02-06 21:00:00,Office Chair,Central,Mobile App,New,UPI,2,195.08,7.0,55.0,4,4.7,No,362.85
+TX-00297,2026-02-07 00:00:00,Office Chair,West,Marketplace,Loyal,UPI,3,225.23,12.1,67.0,5,4.1,No,593.93
+TX-00298,2026-02-07 03:00:00,Webcam,South,Mobile App,New,UPI,3,68.49,4.8,41.0,4,4.0,No,195.61
+TX-00299,2026-02-07 06:00:00,Webcam,East,Website,Regular,Bank Transfer,3,73.96,1.3,39.0,3,4.6,No,219.0
+TX-00300,2026-02-07 09:00:00,Keyboard,South,Mobile App,Loyal,Bank Transfer,2,43.1,12.7,10.0,4,4.4,No,75.25
+TX-00301,2026-02-07 12:00:00,Webcam,Central,Mobile App,Loyal,Card,2,70.6,6.0,15.0,1,3.7,No,132.73
+TX-00302,2026-02-07 15:00:00,Notebook,North,Corporate,Regular,UPI,2,6.88,5.0,70.0,3,4.9,No,13.07
+TX-00303,2026-02-07 18:00:00,Keyboard,West,Website,Regular,UPI,3,45.0,2.7,84.0,5,4.6,Yes,131.35
+TX-00304,2026-02-07 21:00:00,Monitor,East,Website,Loyal,UPI,3,220.96,7.1,51.0,6,4.2,No,615.82
+TX-00305,2026-02-08 00:00:00,Webcam,West,Marketplace,Loyal,Card,5,83.8,13.3,29.0,6,3.9,No,363.27
+TX-00306,2026-02-08 03:00:00,Monitor,East,Mobile App,Regular,UPI,4,183.85,7.3,5.0,5,4.4,No,681.72
+TX-00307,2026-02-08 06:00:00,Headphones,North,Mobile App,Loyal,UPI,5,53.48,11.2,4.0,1,4.6,No,237.45
+TX-00308,2026-02-08 09:00:00,Keyboard,West,Mobile App,Regular,Card,3,51.19,4.1,57.0,3,3.3,No,147.27
+TX-00309,2026-02-08 12:00:00,Headphones,West,Website,New,Wallet,2,53.69,6.0,54.0,6,4.4,No,100.94
+TX-00310,2026-02-08 15:00:00,Notebook,East,Mobile App,Regular,Card,2,7.86,9.1,24.0,6,4.6,No,14.29
+TX-00311,2026-02-08 18:00:00,Monitor,South,Website,Enterprise,UPI,11,202.41,14.8,16.0,6,2.9,No,1896.99
+TX-00312,2026-02-08 21:00:00,Monitor,South,Website,Regular,UPI,2,200.41,10.5,6.0,4,4.3,Yes,358.73
+TX-00313,2026-02-09 00:00:00,Headphones,East,Mobile App,Regular,Bank Transfer,3,45.82,10.9,58.0,2,4.6,No,122.48
+TX-00314,2026-02-09 03:00:00,Headphones,South,Mobile App,New,Card,3,51.65,7.2,51.0,4,4.5,No,143.79
+TX-00315,2026-02-09 06:00:00,Headphones,South,Marketplace,Loyal,Card,1,49.82,6.4,28.0,4,4.6,No,46.63
+TX-00316,2026-02-09 09:00:00,Headphones,South,Website,Regular,Card,4,55.65,5.7,62.0,6,4.0,No,209.91
+TX-00317,2026-02-09 12:00:00,Headphones,North,Website,Regular,UPI,2,50.83,7.7,72.0,4,3.6,No,93.83
+TX-00318,2026-02-09 15:00:00,Keyboard,Central,Corporate,Enterprise,Card,16,42.89,12.7,44.0,4,3.2,Yes,599.09
+TX-00319,2026-02-09 18:00:00,Headphones,South,Website,New,Bank Transfer,4,52.57,4.8,23.0,4,4.8,No,200.19
+TX-00320,2026-02-09 21:00:00,Office Chair,North,Website,Regular,Card,2,179.14,8.2,1.0,5,4.6,Yes,328.9
+TX-00321,2026-02-10 00:00:00,Office Chair,North,Website,Regular,Card,2,170.73,15.3,67.0,5,4.8,No,289.22
+TX-00322,2026-02-10 03:00:00,Monitor,Central,Mobile App,Loyal,UPI,1,197.84,10.5,49.0,3,3.8,No,177.07
+TX-00323,2026-02-10 06:00:00,Headphones,East,Marketplace,Regular,Bank Transfer,2,55.47,8.0,30.0,3,4.6,No,102.06
+TX-00324,2026-02-10 09:00:00,Keyboard,South,Marketplace,Regular,Bank Transfer,4,50.07,4.1,1.0,6,3.4,No,192.07
+TX-00325,2026-02-10 12:00:00,Webcam,East,Mobile App,New,Wallet,3,70.91,11.7,69.0,2,3.7,No,187.84
+TX-00326,2026-02-10 15:00:00,Keyboard,North,Website,Loyal,UPI,2,42.34,14.6,78.0,6,4.3,No,72.32
+TX-00327,2026-02-10 18:00:00,Webcam,South,Website,Loyal,Wallet,1,69.14,14.4,41.0,2,4.6,No,59.18
+TX-00328,2026-02-10 21:00:00,Keyboard,South,Mobile App,New,Wallet,5,36.66,12.1,23.0,3,5.0,Yes,161.12
+TX-00329,2026-02-11 00:00:00,Keyboard,Central,Website,Regular,Card,4,44.38,6.7,53.0,5,4.1,No,165.63
+TX-00330,2026-02-11 03:00:00,Headphones,North,Website,Loyal,UPI,2,52.84,11.1,74.0,4,3.7,No,93.95
+TX-00331,2026-02-11 06:00:00,Webcam,East,Website,New,Bank Transfer,2,63.76,13.1,50.0,2,3.7,No,110.81
+TX-00332,2026-02-11 09:00:00,Headphones,Atlantis,Website,Regular,Card,5,51.02,9.9,2.0,5,3.8,No,229.85
+TX-00333,2026-02-11 12:00:00,Keyboard,Central,Mobile App,Regular,Wallet,4,43.19,1.3,17.0,4,5.0,No,170.51
+TX-00334,2026-02-11 15:00:00,Webcam,East,Mobile App,Regular,UPI,1,77.3,9.4,9.0,4,4.6,No,70.03
+TX-00335,2026-02-11 18:00:00,Notebook,South,Website,Regular,UPI,2,8.92,6.3,35.0,3,4.8,No,16.72
+TX-00336,2026-02-11 21:00:00,Keyboard,South,Mobile App,Regular,Card,1,41.01,10.7,38.0,4,4.1,No,36.62
+TX-00337,2026-02-12 00:00:00,Notebook,South,Marketplace,New,Wallet,3,7.6,9.2,45.0,3,4.2,Yes,20.7
+TX-00338,2026-02-12 03:00:00,Webcam,West,Mobile App,Regular,Bank Transfer,6,66.64,2.8,64.0,7,4.6,No,388.64
+TX-00339,2026-02-12 06:00:00,Notebook,South,Marketplace,Loyal,Card,6,8.67,12.8,10.0,4,3.9,Yes,45.36
+TX-00340,2026-02-12 09:00:00,Office Chair,West,Website,Regular,UPI,3,182.64,8.6,80.0,4,4.0,No,500.8
+TX-00341,2026-02-12 12:00:00,Notebook,West,Marketplace,New,Card,4,8.07,9.1,23.0,3,3.8,No,29.34
+TX-00342,2026-02-12 15:00:00,Office Chair,Central,Website,Loyal,Card,2,189.92,13.7,44.0,6,4.0,No,327.8
+TX-00343,2026-02-12 18:00:00,Webcam,South,Website,New,COD,2,65.95,12.5,18.0,2,4.2,No,115.41
+TX-00344,2026-02-12 21:00:00,Keyboard,Central,Website,Loyal,UPI,4,51.58,13.2,30.0,4,3.7,No,179.09
+TX-00345,2026-02-13 00:00:00,Webcam,East,Mobile App,Regular,UPI,2,69.99,8.1,70.0,4,4.4,No,128.64
+TX-00346,2026-02-13 03:00:00,Webcam,West,Website,Loyal,Card,3,64.26,15.4,4.0,2,4.4,No,163.09
+TX-00347,2026-02-13 06:00:00,Office Chair,West,Website,Regular,COD,5,175.91,14.7,41.0,3,4.1,No,750.26
+TX-00348,2026-02-13 09:00:00,Headphones,Central,Marketplace,New,Card,3,62.21,10.7,50.0,4,3.7,No,166.66
+TX-00349,2026-02-13 12:00:00,Keyboard,East,Website,Regular,Wallet,4,43.13,8.6,48.0,3,4.3,No,157.68
+TX-00350,2026-02-13 15:00:00,Notebook,West,Website,New,Card,9,8.8,9.3,32.0,4,3.9,No,71.83
+TX-00351,2026-02-13 18:00:00,Keyboard,South,Website,Regular,Card,2,42.27,8.8,32.0,6,4.2,No,77.1
+TX-00352,2026-02-13 21:00:00,Notebook,East,Website,Loyal,Wallet,4,7.41,12.1,77.0,4,4.8,No,26.05
+TX-00353,2026-02-14 00:00:00,Keyboard,East,Website,Loyal,Card,2,48.07,18.5,21.0,2,3.5,No,78.35
+TX-00354,2026-02-14 03:00:00,Keyboard,West,Website,New,Wallet,3,41.23,5.8,41.0,3,5.0,No,116.52
+TX-00355,2026-02-14 06:00:00,Monitor,West,Website,Loyal,Card,1,238.86,15.5,31.0,4,4.2,Yes,201.84
+TX-00356,2026-02-14 09:00:00,Monitor,North,Marketplace,Loyal,Wallet,3,227.87,11.6,65.0,4,4.4,No,604.31
+TX-00357,2026-02-14 12:00:00,Webcam,Central,Corporate,Loyal,Bank Transfer,2,64.14,7.6,68.0,4,3.8,No,118.53
+TX-00358,2026-02-14 15:00:00,Webcam,West,Mobile App,Loyal,Wallet,3,69.5,11.4,72.0,4,4.8,Yes,184.73
+TX-00359,2026-02-14 18:00:00,Monitor,North,Mobile App,Loyal,Card,3,208.25,10.4,8.0,6,4.1,No,559.78
+TX-00360,2026-02-14 21:00:00,Keyboard,Central,Marketplace,Regular,Wallet,2,46.6,9.7,9.0,4,4.0,No,84.16
+TX-00361,2026-02-15 00:00:00,Office Chair,West,Corporate,Loyal,COD,2,217.4,12.3,32.0,3,3.9,No,381.32
+TX-00362,2026-02-15 03:00:00,Notebook,North,Mobile App,Loyal,Card,1,7.71,8.9,38.0,5,4.1,No,7.02
+TX-00363,2026-02-15 06:00:00,Notebook,East,Marketplace,New,Card,3,8.44,12.4,6.0,6,4.4,No,22.18
+TX-00364,2026-02-15 09:00:00,Notebook,Central,Corporate,Regular,Bank Transfer,1,8.02,11.3,76.0,4,4.3,No,7.11
+TX-00365,2026-02-15 12:00:00,Keyboard,South,Marketplace,New,Card,6,45.11,12.8,76.0,4,4.2,No,236.02
+TX-00366,2026-02-15 15:00:00,Monitor,Central,Mobile App,Enterprise,Wallet,9,216.4,15.7,36.0,5,3.8,Yes,1641.83
+TX-00367,2026-02-15 18:00:00,Webcam,East,Website,Regular,Wallet,2,64.25,7.9,65.0,4,3.8,No,118.35
+TX-00368,2026-02-15 21:00:00,Keyboard,South,Website,Loyal,Card,1,46.53,14.1,48.0,1,3.9,No,39.97
+TX-00369,2026-02-16 00:00:00,Headphones,South,Mobile App,Loyal,UPI,2,53.43,10.3,56.0,5,4.5,Yes,95.85
+TX-00370,2026-02-16 03:00:00,Office Chair,East,Mobile App,Enterprise,UPI,11,164.43,15.4,74.0,5,4.6,No,1530.19
+TX-00371,2026-02-16 06:00:00,Webcam,West,Website,New,Card,3,77.47,7.5,8.0,6,4.6,Yes,214.98
+TX-00372,2026-02-16 09:00:00,Headphones,Central,Mobile App,Loyal,Bank Transfer,4,55.55,7.6,20.0,3,4.2,No,205.31
+TX-00373,2026-02-16 12:00:00,Headphones,North,Mobile App,Loyal,Card,3,53.76,12.4,36.0,4,4.4,No,141.28
+TX-00374,2026-02-16 15:00:00,Headphones,Central,Marketplace,New,UPI,1,62.89,6.7,76.0,4,4.1,No,58.68
+TX-00375,2026-02-16 18:00:00,Notebook,East,Website,Loyal,Bank Transfer,2,6.66,11.3,50.0,4,3.2,No,11.81
+TX-00376,2026-02-16 21:00:00,Notebook,North,Website,Regular,Card,2,9.09,9.1,34.0,4,4.1,No,16.53
+TX-00377,2026-02-17 00:00:00,Office Chair,Central,Marketplace,Regular,Bank Transfer,3,164.83,11.8,3.0,4,4.0,No,436.14
+TX-00378,2026-02-17 03:00:00,Monitor,South,Marketplace,Regular,Card,7,224.7,5.5,50.0,4,3.6,No,1486.39
+TX-00379,2026-02-17 06:00:00,Headphones,West,Corporate,Regular,UPI,1,51.86,7.0,23.0,5,3.9,No,48.23
+TX-00380,2026-02-17 09:00:00,Webcam,West,Marketplace,New,Card,4,63.83,5.7,28.0,6,4.3,No,240.77
+TX-00381,2026-02-17 12:00:00,Keyboard,North,Marketplace,New,Wallet,4,51.32,5.5,84.0,3,3.6,No,193.99
+TX-00382,2026-02-17 15:00:00,Office Chair,South,Website,New,Bank Transfer,1,216.71,6.2,45.0,4,3.8,No,203.27
+TX-00383,2026-02-17 18:00:00,Webcam,West,Website,Regular,Bank Transfer,3,68.47,7.4,12.0,3,5.0,No,190.21
+TX-00384,2026-02-17 21:00:00,Monitor,South,Website,Regular,COD,3,227.51,9.8,5.0,3,3.3,No,615.64
+TX-00385,2026-02-18 00:00:00,Headphones,North,Mobile App,Regular,Wallet,2,55.31,9.0,33.0,2,4.1,No,100.66
+TX-00386,2026-02-18 03:00:00,Office Chair,North,Corporate,Loyal,Bank Transfer,3,214.01,8.8,6.0,4,3.6,No,585.53
+TX-00387,2026-02-18 06:00:00,Keyboard,Central,Website,Loyal,UPI,4,36.43,15.9,37.0,5,3.8,No,122.55
+TX-00388,2026-02-18 09:00:00,Office Chair,North,Mobile App,Regular,COD,2,186.92,10.8,35.0,4,4.1,No,333.47
+TX-00389,2026-02-18 12:00:00,Notebook,North,Website,Enterprise,Wallet,9,7.44,12.3,74.0,4,3.7,No,58.72
+TX-00390,2026-02-18 15:00:00,Webcam,East,Website,Regular,Bank Transfer,4,55.31,11.7,29.0,5,4.5,No,195.35
+TX-00391,2026-02-18 18:00:00,Keyboard,North,Website,Loyal,Card,3,43.41,13.0,24.0,6,4.9,No,113.3
+TX-00392,2026-02-18 21:00:00,Notebook,West,Website,New,UPI,3,9.62,7.5,52.0,3,4.7,No,26.7
+TX-00393,2026-02-19 00:00:00,Keyboard,East,Corporate,Loyal,Wallet,2,42.14,13.1,54.0,2,4.8,No,73.24
+TX-00394,2026-02-19 03:00:00,Keyboard,West,Website,Enterprise,Card,12,48.7,14.9,4.0,4,3.4,No,497.32
+TX-00395,2026-02-19 06:00:00,Notebook,East,Marketplace,Loyal,Card,1,9.02,13.6,8.0,6,4.1,No,7.79
+TX-00396,2026-02-19 09:00:00,Monitor,West,Mobile App,Regular,COD,1,219.72,8.6,15.0,2,4.5,No,200.82
+TX-00397,2026-02-19 12:00:00,Webcam,West,Website,Regular,UPI,2,70.85,7.0,66.0,5,4.7,No,131.78
+TX-00398,2026-02-19 15:00:00,Headphones,East,Website,Regular,Card,1,46.33,1.9,18.0,6,5.0,Yes,45.45
+TX-00399,2026-02-19 18:00:00,Monitor,North,Marketplace,Loyal,Card,2,204.8,13.6,84.0,1,4.8,No,353.89
+TX-00400,2026-02-19 21:00:00,Monitor,South,Website,Loyal,UPI,2,240.89,10.9,38.0,5,4.7,No,429.27
+TX-00401,2026-02-20 00:00:00,Headphones,North,Corporate,Enterprise,UPI,11,55.33,17.3,79.0,5,5.0,No,503.34
+TX-00402,2026-02-20 03:00:00,Office Chair,North,Website,Regular,COD,3,186.74,9.4,21.0,4,4.3,No,507.56
+TX-00403,2026-02-20 06:00:00,Webcam,South,Mobile App,New,COD,3,70.94,7.0,36.0,3,4.0,No,197.92
+TX-00404,2026-02-20 09:00:00,Notebook,South,Marketplace,Regular,Wallet,3,9.96,11.1,12.0,3,4.3,No,26.56
+TX-00405,2026-02-20 12:00:00,Office Chair,North,Website,New,Wallet,3,172.42,8.6,72.0,4,3.7,No,472.78
+TX-00406,2026-02-20 15:00:00,Webcam,South,Website,Regular,Card,1,82.19,8.5,51.0,4,4.2,No,75.2
+TX-00407,2026-02-20 18:00:00,Headphones,East,Corporate,Regular,Bank Transfer,6,55.74,7.6,7.0,3,3.3,No,309.02
+TX-00408,2026-02-20 21:00:00,Webcam,North,Website,Loyal,Card,2,82.92,17.1,63.0,4,3.9,No,137.48
+TX-00409,2026-02-21 00:00:00,Notebook,South,Website,New,Card,4,7.08,5.9,75.0,6,4.1,No,26.65
+TX-00410,2026-02-21 03:00:00,Office Chair,North,Website,New,COD,3,183.35,7.0,58.0,2,4.7,No,511.55
+TX-00411,2026-02-21 06:00:00,Keyboard,North,Website,New,Bank Transfer,3,43.26,4.3,,2,4.8,No,124.2
+TX-00412,2026-02-21 09:00:00,Keyboard,North,Marketplace,Loyal,Card,2,45.63,14.2,,6,3.7,No,78.3
+TX-00413,2026-02-21 12:00:00,Notebook,East,Marketplace,Loyal,Wallet,4,9.04,10.3,,4,5.0,No,32.44
+TX-00414,2026-02-21 15:00:00,Office Chair,West,Website,New,UPI,2,186.95,6.6,,3,4.3,No,349.22
+TX-00415,2026-02-21 18:00:00,Notebook,West,Marketplace,New,Card,2,9.04,6.4,,4,4.3,Yes,16.92
+TX-00416,2026-02-21 21:00:00,Headphones,West,Website,Regular,Card,3,51.43,8.2,,4,3.3,No,141.64
+TX-00417,2026-02-22 00:00:00,Notebook,West,Website,Regular,Card,1,7.37,4.2,,3,3.9,No,7.06
+TX-00418,2026-02-22 03:00:00,Webcam,Central,Mobile App,Regular,UPI,3,70.11,1.3,,5,4.8,No,207.6
+TX-00419,2026-02-22 06:00:00,Notebook,South,Corporate,Regular,UPI,2,7.97,9.4,,3,4.3,No,14.44
+TX-00420,2026-02-22 09:00:00,Office Chair,West,Website,Enterprise,UPI,17,176.69,8.7,,4,4.3,No,2742.41
+TX-00421,2026-02-22 12:00:00,Keyboard,Central,Website,Regular,Card,4,40.89,10.6,,1,4.3,Yes,146.22
+TX-00422,2026-02-22 15:00:00,Notebook,East,Mobile App,Loyal,COD,2,9.02,16.7,,6,3.4,No,15.03
+TX-00423,2026-02-22 18:00:00,Notebook,Central,Marketplace,New,UPI,1,7.71,7.5,,4,4.1,No,7.13
+TX-00424,2026-02-22 21:00:00,Notebook,North,Website,Enterprise,Bank Transfer,13,9.23,18.9,,5,5.0,Yes,97.31
+TX-00425,2026-02-23 00:00:00,Keyboard,Central,Website,Enterprise,Card,8,45.06,14.9,,5,4.8,No,306.77
+TX-00426,2026-02-23 03:00:00,Webcam,East,Mobile App,Loyal,UPI,2,74.69,16.8,20.0,5,4.1,No,124.28
+TX-00427,2026-02-23 06:00:00,Headphones,South,Website,Regular,Bank Transfer,2,58.15,6.6,27.0,4,5.0,No,108.62
+TX-00428,2026-02-23 09:00:00,Webcam,North,Website,Regular,Card,3,64.46,0.9,58.0,5,3.5,No,191.64
+TX-00429,2026-02-23 12:00:00,Notebook,West,Website,Loyal,Card,2,8.3,11.8,15.0,3,3.7,Yes,14.64
+TX-00430,2026-02-23 15:00:00,Webcam,East,Website,Loyal,Card,3,84.89,17.1,26.0,2,5.0,No,211.12
+TX-00431,2026-02-23 18:00:00,Office Chair,South,Mobile App,Regular,Card,2,184.59,9.6,84.0,4,4.5,No,333.74
+TX-00432,2026-02-23 21:00:00,Webcam,South,Marketplace,Regular,UPI,1,76.6,6.5,13.0,3,4.0,No,71.62
+TX-00433,2026-02-24 00:00:00,Keyboard,Central,Mobile App,Regular,Card,3,48.23,9.0,49.0,6,4.2,No,131.67
+TX-00434,2026-02-24 03:00:00,Webcam,East,Mobile App,Loyal,Card,4,72.18,14.9,13.0,4,3.8,No,245.7
+TX-00435,2026-02-24 06:00:00,Notebook,North,Corporate,Loyal,Wallet,4,8.15,11.7,60.0,3,4.4,No,28.79
+TX-00436,2026-02-24 09:00:00,Headphones,South,Website,Regular,Card,7,58.09,15.9,11.0,4,4.3,No,341.98
+TX-00437,2026-02-24 12:00:00,Notebook,North,Website,Regular,UPI,2,8.63,6.4,49.0,4,4.2,No,16.16
+TX-00438,2026-02-24 15:00:00,Monitor,West,Corporate,Regular,Wallet,5,192.18,11.0,37.0,4,3.6,No,855.2
+TX-00439,2026-02-24 18:00:00,Webcam,Central,Website,Regular,Card,4,71.75,10.3,59.0,4,4.3,No,257.44
+TX-00440,2026-02-24 21:00:00,Keyboard,Central,Mobile App,New,Card,4,44.18,5.9,1.0,4,3.9,No,166.29
+TX-00441,2026-02-25 00:00:00,Webcam,West,Marketplace,Loyal,Card,3,67.31,10.7,44.0,2,3.7,No,180.32
+TX-00442,2026-02-25 03:00:00,Notebook,West,Website,Regular,Card,1,9.11,11.1,46.0,1,4.9,No,8.1
+TX-00443,2026-02-25 06:00:00,Webcam,East,Mobile App,Regular,UPI,3,65.05,8.4,21.0,4,5.0,No,178.76
+TX-00444,2026-02-25 09:00:00,Notebook,West,Website,Regular,Card,2,6.96,9.0,26.0,5,5.0,No,12.67
+TX-00445,2026-02-25 12:00:00,Headphones,North,Website,Regular,Card,1,59.56,3.1,60.0,4,4.6,Yes,57.71
+TX-00446,2026-02-25 15:00:00,Keyboard,East,Mobile App,Regular,COD,3,39.04,10.0,47.0,6,4.1,No,105.41
+TX-00447,2026-02-25 18:00:00,Office Chair,East,Website,Regular,COD,3,148.44,8.9,49.0,4,4.2,No,405.69
+TX-00448,2026-02-25 21:00:00,Keyboard,North,Marketplace,New,Card,3,49.28,7.8,79.0,6,4.4,No,136.31
+TX-00449,2026-02-26 00:00:00,Notebook,East,Corporate,Loyal,Card,3,8.13,13.1,35.0,5,4.0,Yes,21.19
+TX-00450,2026-02-26 03:00:00,Keyboard,West,Marketplace,Regular,UPI,4,47.18,6.8,73.0,5,4.9,No,175.89
+TX-00451,2026-02-26 06:00:00,Notebook,South,Website,Regular,Bank Transfer,3,7.65,6.2,82.0,2,3.1,No,21.53
+TX-00452,2026-02-26 09:00:00,Office Chair,East,Website,Regular,Bank Transfer,2,156.73,7.3,49.0,4,4.0,No,290.58
+TX-00453,2026-02-26 12:00:00,Keyboard,South,Website,Loyal,Card,3,39.97,10.6,18.0,6,4.6,Yes,107.2
+TX-00454,2026-02-26 15:00:00,Notebook,South,Website,Regular,Card,2,7.79,14.5,36.0,4,3.7,No,13.32
+TX-00455,2026-02-26 18:00:00,Notebook,North,Corporate,Loyal,UPI,5,7.04,14.7,4.0,5,4.1,No,30.03
+TX-00456,2026-02-26 21:00:00,Notebook,South,Website,Enterprise,Bank Transfer,6,8.25,12.1,59.0,2,4.5,No,43.51
+TX-00457,2026-02-27 00:00:00,Office Chair,Central,Website,Loyal,Bank Transfer,3,171.87,18.1,23.0,6,5.0,No,422.28
+TX-00458,2026-02-27 03:00:00,Monitor,Central,Marketplace,Regular,Card,2,224.11,6.7,78.0,3,3.5,No,418.19
+TX-00459,2026-02-27 06:00:00,Webcam,West,Website,Loyal,UPI,2,71.09,12.1,55.0,1,3.4,Yes,124.98
+TX-00460,2026-02-27 09:00:00,Keyboard,West,Website,Regular,Card,1,46.77,10.7,42.0,4,3.7,Yes,41.77
+TX-00461,2026-02-27 12:00:00,Keyboard,West,Website,Regular,Wallet,3,47.3,2.1,16.0,1,3.4,No,138.92
+TX-00462,2026-02-27 15:00:00,Notebook,East,Mobile App,Regular,COD,3,7.73,7.3,9.0,3,3.4,No,21.5
+TX-00463,2026-02-27 18:00:00,Office Chair,East,Marketplace,Regular,UPI,4,183.34,6.3,57.0,7,3.7,No,687.16
+TX-00464,2026-02-27 21:00:00,Headphones,West,Website,New,Card,3,56.31,8.6,65.0,4,4.9,No,154.4
+TX-00465,2026-02-28 00:00:00,Keyboard,West,Corporate,Regular,UPI,1,35.3,9.1,23.0,2,4.0,No,32.09
+TX-00466,2026-02-28 03:00:00,Keyboard,East,Marketplace,New,UPI,2,48.01,7.8,1.0,4,4.2,No,88.53
+TX-00467,2026-02-28 06:00:00,Keyboard,East,Marketplace,Regular,Bank Transfer,7,45.68,7.6,27.0,3,3.7,No,295.46
+TX-00468,2026-02-28 09:00:00,Office Chair,East,Website,Regular,UPI,2,190.44,11.2,65.0,5,4.5,No,338.22
+TX-00469,2026-02-28 12:00:00,Notebook,South,Website,Enterprise,Bank Transfer,15,7.03,15.9,49.0,3,5.0,No,88.68
+TX-00470,2026-02-28 15:00:00,Monitor,South,Marketplace,New,Card,2,213.16,8.1,8.0,4,3.7,No,391.79
+TX-00471,2026-02-28 18:00:00,Monitor,North,Website,Regular,Card,3,197.25,8.4,10.0,3,5.0,No,542.04
+TX-00472,2026-02-28 21:00:00,Monitor,East,Mobile App,Regular,Card,3,237.01,13.5,9.0,7,4.4,No,615.04
+TX-00473,2026-03-01 00:00:00,Notebook,West,Marketplace,New,Card,3,6.95,8.5,64.0,5,4.2,No,19.08
+TX-00474,2026-03-01 03:00:00,Notebook,West,Website,Regular,Card,2,7.29,6.5,66.0,4,4.4,No,13.63
+TX-00475,2026-03-01 06:00:00,Headphones,Central,Marketplace,New,Wallet,3,58.02,2.3,35.0,4,4.4,No,170.06
+TX-00476,2026-03-01 09:00:00,Headphones,North,Corporate,Regular,Card,3,51.65,3.7,58.0,3,5.0,No,149.22
+TX-00477,2026-03-01 12:00:00,Monitor,West,Mobile App,Regular,Card,1,200.49,6.6,2.0,3,4.5,Yes,187.26
+TX-00478,2026-03-01 15:00:00,Keyboard,West,Website,Regular,Card,3,49.27,7.7,48.0,3,4.5,No,136.43
+TX-00479,2026-03-01 18:00:00,Keyboard,East,Marketplace,Regular,Card,3,49.47,6.3,23.0,6,4.0,No,139.06
+TX-00480,2026-03-01 21:00:00,Monitor,South,Mobile App,New,Bank Transfer,2,236.47,9.1,69.0,3,4.7,No,429.9
+TX-00481,2026-03-02 00:00:00,Monitor,South,Mobile App,New,COD,2,239.49,6.3,42.0,1,3.7,No,448.8
+TX-00482,2026-03-02 03:00:00,Headphones,West,Marketplace,New,Card,3,53.74,5.3,72.0,2,4.3,No,152.68
+TX-00483,2026-03-02 06:00:00,Keyboard,Central,Mobile App,Regular,Bank Transfer,3,44.09,9.8,48.0,5,5.0,No,119.31
+TX-00484,2026-03-02 09:00:00,Headphones,West,Website,Regular,Wallet,5,51.55,12.1,39.0,4,2.8,No,226.56
+TX-00485,2026-03-02 12:00:00,Notebook,East,Website,Regular,COD,7,8.14,4.7,80.0,4,4.3,No,54.3
+TX-00486,2026-03-02 15:00:00,Monitor,West,Website,Regular,UPI,4,208.69,8.7,84.0,6,4.3,No,762.14
+TX-00487,2026-03-02 18:00:00,Monitor,North,Mobile App,New,Card,3,210.68,2.3,39.0,3,4.1,No,617.5
+TX-00488,2026-03-02 21:00:00,Headphones,West,Mobile App,Enterprise,UPI,8,58.4,10.6,31.0,5,4.1,No,417.68
+TX-00489,2026-03-03 00:00:00,Keyboard,North,Mobile App,New,Bank Transfer,1,50.66,6.2,55.0,3,4.3,No,47.52
+TX-00490,2026-03-03 03:00:00,Keyboard,Central,Website,New,Wallet,4,46.83,11.4,15.0,5,4.1,No,165.97
+TX-00491,2026-03-03 06:00:00,Keyboard,Central,Marketplace,New,UPI,1,53.84,5.7,33.0,3,4.3,No,50.77
+TX-00492,2026-03-03 09:00:00,Keyboard,East,Corporate,Enterprise,Card,11,41.93,12.6,72.0,4,3.9,No,403.12
+TX-00493,2026-03-03 12:00:00,Keyboard,South,Website,Regular,Wallet,2,37.44,8.1,76.0,5,5.0,No,68.81
+TX-00494,2026-03-03 15:00:00,Headphones,West,Mobile App,Regular,Bank Transfer,5,59.07,8.1,35.0,5,4.1,Yes,271.43
+TX-00495,2026-03-03 18:00:00,Webcam,West,Mobile App,Enterprise,UPI,8,64.8,12.6,33.0,4,4.5,No,453.08
+TX-00496,2026-03-03 21:00:00,Keyboard,West,Mobile App,New,Wallet,4,43.79,14.0,74.0,3,3.8,No,150.64
+TX-00497,2026-03-04 00:00:00,Monitor,East,Website,Enterprise,UPI,7,184.32,14.2,17.0,6,4.7,No,1107.03
+TX-00498,2026-03-04 03:00:00,Keyboard,South,Marketplace,Regular,UPI,2,41.13,8.3,6.0,5,4.6,No,75.43
+TX-00499,2026-03-04 06:00:00,Headphones,North,Corporate,Regular,UPI,4,47.33,6.8,7.0,3,4.4,No,176.45
+TX-00500,2026-03-04 09:00:00,Monitor,South,Mobile App,Regular,Bank Transfer,1,210.65,9.3,10.0,3,3.6,No,191.06
+TX-00501,2026-03-04 12:00:00,Webcam,East,Corporate,Regular,COD,6,67.29,11.7,74.0,5,3.8,No,356.5
+TX-00502,2026-03-04 15:00:00,Office Chair,East,Corporate,Enterprise,UPI,10,181.63,20.0,4.0,4,5.0,No,1453.04
+TX-00503,2026-03-04 18:00:00,Office Chair,East,Website,New,UPI,2,203.76,5.7,28.0,4,3.8,No,384.29
+TX-00504,2026-03-04 21:00:00,Monitor,South,Mobile App,Enterprise,UPI,10,235.41,18.3,51.0,4,4.6,No,1923.3
+TX-00505,2026-03-05 00:00:00,Monitor,Central,Mobile App,Regular,Card,3,187.06,9.6,52.0,4,3.7,No,507.31
+TX-00506,2026-03-05 03:00:00,Webcam,South,Corporate,Regular,Card,6,74.39,10.9,70.0,4,4.8,No,397.69
+TX-00507,2026-03-05 06:00:00,Headphones,Central,Website,Enterprise,Card,14,55.62,14.7,83.0,6,3.8,No,664.21
+TX-00508,2026-03-05 09:00:00,Webcam,South,Website,New,UPI,2,69.32,7.4,34.0,6,3.7,No,128.38
+TX-00509,2026-03-05 12:00:00,Monitor,East,Marketplace,Enterprise,Card,5,219.5,17.8,20.0,5,3.8,No,902.14
+TX-00510,2026-03-05 15:00:00,Notebook,West,Website,Regular,UPI,4,8.17,10.9,8.0,6,3.9,No,29.12
+TX-00511,2026-03-05 18:00:00,Notebook,South,Marketplace,Loyal,Bank Transfer,2,7.47,16.7,75.0,4,4.4,No,12.45
+TX-00512,2026-03-05 21:00:00,Webcam,South,Website,New,Card,2,68.74,8.6,32.0,5,4.2,No,125.66
+TX-00513,2026-03-06 00:00:00,Notebook,South,Corporate,Regular,UPI,1,9.01,7.7,76.0,5,3.6,No,8.32
+TX-00514,2026-03-06 03:00:00,Headphones,Central,Marketplace,Loyal,COD,2,51.26,4.6,30.0,5,4.2,No,97.8
+TX-00515,2026-03-06 06:00:00,Headphones,North,Website,Regular,UPI,1,49.62,3.2,64.0,5,3.6,No,48.03
+TX-00516,2026-03-06 09:00:00,Notebook,East,Marketplace,New,Card,2,7.95,6.8,55.0,5,4.6,No,14.82
+TX-00517,2026-03-06 12:00:00,Headphones,West,Website,Regular,UPI,3,49.12,4.7,60.0,7,4.7,No,140.43
+TX-00518,2026-03-06 15:00:00,Webcam,West,Mobile App,Loyal,UPI,4,58.92,14.4,55.0,3,4.2,No,201.74
+TX-00519,2026-03-06 18:00:00,Notebook,East,Mobile App,New,UPI,4,7.73,4.1,26.0,4,4.3,No,29.65
+TX-00520,2026-03-06 21:00:00,Webcam,North,Marketplace,Loyal,Card,1,80.91,10.5,9.0,4,5.0,No,72.41
+TX-00521,2026-03-07 00:00:00,Webcam,North,Website,Enterprise,UPI,10,69.73,13.6,1.0,4,4.1,No,602.47
+TX-00522,2026-03-07 03:00:00,Headphones,East,Website,New,UPI,3,55.99,11.6,36.0,1,3.7,No,148.49
+TX-00523,2026-03-07 06:00:00,Notebook,Central,Mobile App,New,Card,1,6.47,6.2,75.0,6,4.5,No,6.07
+TX-00524,2026-03-07 09:00:00,Keyboard,North,Mobile App,Loyal,UPI,3,47.02,13.4,54.0,3,3.6,No,122.16
+TX-00525,2026-03-07 12:00:00,Notebook,Central,Mobile App,New,Card,2,8.08,8.6,57.0,4,4.1,No,14.77
+TX-00526,2026-03-07 15:00:00,Headphones,West,Website,Regular,Card,2,51.46,10.7,22.0,2,3.9,No,91.91
+TX-00527,2026-03-07 18:00:00,Office Chair,North,Website,Loyal,Bank Transfer,3,183.27,14.6,41.0,5,3.8,No,469.54
+TX-00528,2026-03-07 21:00:00,Office Chair,South,Marketplace,Regular,Card,3,183.09,7.9,35.0,3,4.1,No,505.88
+TX-00529,2026-03-08 00:00:00,Webcam,South,Website,Regular,UPI,3,62.96,2.9,12.0,3,4.7,No,183.4
+TX-00530,2026-03-08 03:00:00,Headphones,Central,Website,Loyal,UPI,1,56.86,11.3,52.0,4,4.8,No,50.43
+TX-00531,2026-03-08 06:00:00,Keyboard,East,Corporate,Regular,Card,5,50.72,7.9,31.0,3,4.7,No,233.57
+TX-00532,2026-03-08 09:00:00,Keyboard,South,Website,Regular,COD,4,43.99,8.9,34.0,3,4.4,No,160.3
+TX-00533,2026-03-08 12:00:00,Headphones,South,Mobile App,Regular,UPI,3,50.43,5.8,51.0,4,4.1,No,142.52
+TX-00534,2026-03-08 15:00:00,Keyboard,East,Website,Loyal,Card,3,44.21,15.4,3.0,5,2.9,No,112.2
+TX-00535,2026-03-08 18:00:00,Notebook,North,Marketplace,Loyal,COD,3,8.71,12.0,79.0,3,4.4,Yes,22.99
+TX-00536,2026-03-08 21:00:00,Headphones,South,Mobile App,Regular,Wallet,1,48.65,5.2,19.0,3,2.9,No,46.12
+TX-00537,2026-03-09 00:00:00,Monitor,North,Marketplace,Regular,Wallet,1,233.1,6.6,58.0,4,3.1,No,217.72
+TX-00538,2026-03-09 03:00:00,Notebook,West,Website,New,Card,1,7.48,13.8,66.0,5,4.1,No,6.45
+TX-00539,2026-03-09 06:00:00,Notebook,West,Mobile App,Regular,Card,3,8.2,10.0,13.0,6,4.3,No,22.14
+TX-00540,2026-03-09 09:00:00,Webcam,East,Marketplace,New,UPI,3,66.16,11.1,21.0,3,4.0,No,176.45
+TX-00541,2026-03-09 12:00:00,Office Chair,North,Website,Enterprise,Card,12,170.08,11.9,35.0,4,5.0,No,1798.09
+TX-00542,2026-03-09 15:00:00,Keyboard,South,Website,Regular,Card,2,52.4,5.9,69.0,6,4.5,No,98.62
+TX-00543,2026-03-09 18:00:00,Webcam,Central,Website,Loyal,Bank Transfer,6,60.8,10.0,54.0,7,4.1,No,328.32
+TX-00544,2026-03-09 21:00:00,Office Chair,South,Corporate,New,Card,4,188.95,8.6,40.0,3,5.0,No,690.8
+TX-00545,2026-03-10 00:00:00,Notebook,North,Mobile App,Regular,Card,2,9.51,7.5,72.0,3,5.0,No,17.59
+TX-00546,2026-03-10 03:00:00,Monitor,North,Mobile App,Regular,Card,2,235.61,6.5,40.0,4,4.5,No,440.59
+TX-00547,2026-03-10 06:00:00,Monitor,Central,Mobile App,Regular,UPI,2,192.58,6.9,75.0,3,3.8,No,358.58
+TX-00548,2026-03-10 09:00:00,Notebook,North,Mobile App,Loyal,UPI,5,7.04,9.6,65.0,3,3.9,No,31.82
+TX-00549,2026-03-10 12:00:00,Webcam,East,Mobile App,Enterprise,Bank Transfer,7,64.93,14.5,15.0,4,3.4,No,388.61
+TX-00550,2026-03-10 15:00:00,Monitor,Central,Website,Loyal,Card,7,223.5,15.3,33.0,6,4.2,No,1325.13
+TX-00551,2026-03-10 18:00:00,Monitor,West,Mobile App,New,Card,2,225.03,3.5,3.0,2,3.6,No,434.31
+TX-00552,2026-03-10 21:00:00,Notebook,East,Website,Loyal,UPI,1,7.04,13.0,21.0,6,4.0,No,6.12
+TX-00553,2026-03-11 00:00:00,Notebook,South,Marketplace,New,UPI,4,7.33,12.1,2.0,3,4.3,No,25.77
+TX-00554,2026-03-11 03:00:00,Office Chair,North,Marketplace,Loyal,UPI,3,165.97,11.5,9.0,4,3.1,No,440.65
+TX-00555,2026-03-11 06:00:00,Notebook,North,Website,Regular,COD,3,7.86,6.4,1.0,6,3.5,No,22.07
+TX-00556,2026-03-11 09:00:00,Headphones,Central,Mobile App,Regular,UPI,2,67.07,10.8,57.0,4,3.9,No,119.65
+TX-00557,2026-03-11 12:00:00,Headphones,North,Website,New,UPI,1,50.1,5.0,35.0,4,4.2,No,47.6
+TX-00558,2026-03-11 15:00:00,Monitor,North,Corporate,New,COD,2,199.52,7.9,40.0,5,3.9,Yes,367.52
+TX-00559,2026-03-11 18:00:00,Keyboard,Central,Corporate,Regular,Card,3,40.18,4.9,65.0,4,4.1,No,114.63
+TX-00560,2026-03-11 21:00:00,Monitor,East,Corporate,Loyal,COD,2,234.44,6.4,68.0,5,3.8,No,438.87
+TX-00561,2026-03-12 00:00:00,Notebook,South,Website,Loyal,UPI,7,7.97,11.5,45.0,4,,No,49.37
+TX-00562,2026-03-12 03:00:00,Headphones,West,Website,Enterprise,UPI,10,50.29,11.2,39.0,5,,No,446.58
+TX-00563,2026-03-12 06:00:00,Webcam,East,Website,New,COD,3,67.51,8.0,55.0,2,,No,186.33
+TX-00564,2026-03-12 09:00:00,Keyboard,Central,Website,Regular,UPI,2,41.58,11.3,35.0,3,,No,73.76
+TX-00565,2026-03-12 12:00:00,Keyboard,East,Website,Regular,UPI,3,46.35,13.6,38.0,2,,No,120.14
+TX-00566,2026-03-12 15:00:00,Keyboard,West,Website,Regular,Card,3,58.86,8.3,26.0,4,,No,161.92
+TX-00567,2026-03-12 18:00:00,Webcam,Central,Corporate,Regular,Wallet,4,73.96,11.1,16.0,2,,No,263.0
+TX-00568,2026-03-12 21:00:00,Notebook,East,Website,Regular,UPI,1,7.93,9.2,17.0,3,,No,7.2
+TX-00569,2026-03-13 00:00:00,Headphones,South,Website,Regular,Card,3,51.46,6.9,56.0,3,,Yes,143.73
+TX-00570,2026-03-13 03:00:00,Keyboard,Central,Marketplace,New,Wallet,6,39.34,2.2,70.0,6,,No,230.85
+TX-00571,2026-03-13 06:00:00,Headphones,South,Mobile App,Regular,Wallet,4,59.19,12.9,36.0,3,,No,206.22
+TX-00572,2026-03-13 09:00:00,Webcam,North,Marketplace,Loyal,UPI,1,74.92,8.9,8.0,2,,No,68.25
+TX-00573,2026-03-13 12:00:00,Monitor,East,Mobile App,New,Card,4,209.98,12.1,52.0,4,,No,738.29
+TX-00574,2026-03-13 15:00:00,Webcam,Central,Marketplace,Enterprise,UPI,9,79.03,16.6,76.0,6,4.8,No,593.2
+TX-00575,2026-03-13 18:00:00,Webcam,North,Mobile App,Regular,Card,4,70.15,5.1,45.0,4,5.0,No,266.29
+TX-00576,2026-03-13 21:00:00,Monitor,Central,Mobile App,Loyal,Card,4,237.72,12.9,3.0,4,4.3,No,828.22
+TX-00577,2026-03-14 00:00:00,Office Chair,Central,Mobile App,Loyal,UPI,5,185.41,18.4,7.0,6,4.8,No,756.47
+TX-00578,2026-03-14 03:00:00,Keyboard,Central,Website,Loyal,Card,2,44.21,16.6,44.0,5,3.5,No,73.74
+TX-00579,2026-03-14 06:00:00,Webcam,East,Website,Loyal,Card,1,63.63,10.5,73.0,5,4.2,No,56.95
+TX-00580,2026-03-14 09:00:00,Headphones,South,Mobile App,Loyal,Wallet,6,54.21,9.9,5.0,3,4.0,No,293.06
+TX-00581,2026-03-14 12:00:00,Monitor,East,Website,Regular,Card,5,239.33,8.3,64.0,5,4.4,Yes,1097.33
+TX-00582,2026-03-14 15:00:00,Keyboard,North,Marketplace,Regular,COD,2,42.77,7.5,66.0,2,5.0,Yes,79.12
+TX-00583,2026-03-14 18:00:00,Notebook,Central,Website,New,COD,2,8.36,11.6,5.0,3,4.3,No,14.78
+TX-00584,2026-03-14 21:00:00,Monitor,West,Website,Regular,UPI,2,197.42,10.2,18.0,6,3.7,No,354.57
+TX-00585,2026-03-15 00:00:00,Office Chair,East,Website,New,COD,3,194.6,2.9,1.0,6,3.5,No,566.87
+TX-00586,2026-03-15 03:00:00,Keyboard,East,Marketplace,Regular,Bank Transfer,3,46.43,9.4,48.0,5,5.0,No,126.2
+TX-00587,2026-03-15 06:00:00,Notebook,West,Website,New,Card,3,7.09,7.5,15.0,1,4.5,No,19.67
+TX-00588,2026-03-15 09:00:00,Headphones,East,Mobile App,Regular,Wallet,6,53.78,8.1,77.0,2,4.4,No,296.54
+TX-00589,2026-03-15 12:00:00,Notebook,Central,Marketplace,New,Card,5,8.78,8.7,8.0,3,4.0,No,40.08
+TX-00590,2026-03-15 15:00:00,Notebook,Central,Website,Regular,Wallet,3,7.05,11.6,55.0,4,4.3,No,18.7
+TX-00591,2026-03-15 18:00:00,Office Chair,Central,Marketplace,Loyal,UPI,4,161.72,14.9,67.0,2,3.7,No,550.49
+TX-00592,2026-03-15 21:00:00,Monitor,West,Website,Loyal,Card,5,218.48,9.8,15.0,4,4.4,No,985.34
+TX-00593,2026-03-16 00:00:00,Headphones,West,Website,Regular,Card,3,68.08,7.8,22.0,6,3.6,No,188.31
+TX-00594,2026-03-16 03:00:00,Keyboard,South,Mobile App,Regular,COD,2,42.07,6.7,67.0,5,4.0,No,78.5
+TX-00595,2026-03-16 06:00:00,Notebook,North,Corporate,Regular,Card,3,8.41,3.0,8.0,4,3.8,No,24.47
+TX-00596,2026-03-16 09:00:00,Headphones,East,Website,Regular,Card,3,56.45,7.7,38.0,3,2.4,No,156.31
+TX-00597,2026-03-16 12:00:00,Keyboard,Central,Mobile App,Loyal,Card,1,42.42,17.5,22.0,2,4.0,No,35.0
+TX-00598,2026-03-16 15:00:00,Keyboard,North,Website,Regular,UPI,1,45.73,2.9,2.0,2,3.7,No,44.4
+TX-00599,2026-03-16 18:00:00,Office Chair,East,Mobile App,Enterprise,Bank Transfer,9,172.12,14.9,38.0,2,4.1,No,1318.27
+TX-00600,2026-03-16 21:00:00,Keyboard,North,Mobile App,New,Wallet,2,43.42,7.8,41.0,4,4.2,No,80.07
+TX-00601,2026-03-17 00:00:00,Monitor,East,Mobile App,Loyal,UPI,1,186.33,12.9,30.0,4,5.0,No,162.29
+TX-00602,2026-03-17 03:00:00,Webcam,North,Mobile App,Regular,Card,3,69.83,5.1,69.0,3,4.4,No,198.81
+TX-00603,2026-03-17 06:00:00,Office Chair,West,Website,Regular,Card,4,196.93,3.7,9.0,4,4.4,No,758.57
+TX-00604,2026-03-17 09:00:00,Webcam,Central,Mobile App,Loyal,UPI,2,70.4,7.9,37.0,6,4.5,Yes,129.68
+TX-00605,2026-03-17 12:00:00,Office Chair,West,Mobile App,New,Bank Transfer,2,200.74,12.0,16.0,7,4.7,No,353.3
+TX-00606,2026-03-17 15:00:00,Webcam,West,Mobile App,Loyal,Wallet,5,74.18,9.1,64.0,5,4.4,No,337.15
+TX-00607,2026-03-17 18:00:00,Webcam,South,Website,Regular,UPI,1,69.58,6.5,47.0,4,4.4,No,65.06
+TX-00608,2026-03-17 21:00:00,Notebook,East,Website,New,UPI,5,7.51,14.3,60.0,5,4.6,No,32.18
+TX-00609,2026-03-18 00:00:00,Webcam,North,Website,New,UPI,3,66.68,5.8,10.0,6,2.9,No,188.44
+TX-00610,2026-03-18 03:00:00,Monitor,South,Website,Loyal,UPI,3,189.91,13.0,39.0,1,5.0,No,495.67
+TX-00611,2026-03-18 06:00:00,Keyboard,East,Website,Regular,UPI,3,43.81,11.2,5.0,6,5.0,No,116.71
+TX-00612,2026-03-18 09:00:00,Keyboard,West,Website,Loyal,Wallet,1,45.66,15.0,28.0,3,4.3,No,38.81
+TX-00613,2026-03-18 12:00:00,Office Chair,North,Mobile App,Loyal,UPI,1,213.68,8.0,80.0,3,3.4,No,196.59
+TX-00614,2026-03-18 15:00:00,Office Chair,Central,Website,Loyal,COD,4,189.77,9.9,62.0,4,4.9,No,683.93
+TX-00615,2026-03-18 18:00:00,Headphones,East,Marketplace,Regular,UPI,1,50.44,8.9,7.0,4,3.8,No,45.95
+TX-00616,2026-03-18 21:00:00,Webcam,Central,Mobile App,Loyal,Card,1,60.62,17.8,31.0,3,4.5,No,49.83
+TX-00617,2026-03-19 00:00:00,Webcam,East,Marketplace,Enterprise,Card,10,68.57,12.7,74.0,4,3.5,No,598.62
+TX-00618,2026-03-19 03:00:00,Headphones,East,Mobile App,New,UPI,2,59.65,6.5,15.0,5,5.0,No,111.55
+TX-00619,2026-03-19 06:00:00,Notebook,West,Mobile App,Regular,UPI,3,7.83,9.3,64.0,4,3.4,No,21.31
+TX-00620,2026-03-19 09:00:00,Notebook,Central,Mobile App,Regular,UPI,1,8.45,9.9,27.0,4,4.2,Yes,7.61
+TX-00621,2026-03-19 12:00:00,Webcam,North,Corporate,Regular,Wallet,4,68.74,10.0,41.0,4,3.0,No,247.46
+TX-00622,2026-03-19 15:00:00,Monitor,East,Mobile App,Loyal,Card,3,236.35,9.5,74.0,5,4.2,No,641.69
+TX-00623,2026-03-19 18:00:00,Office Chair,North,Mobile App,Regular,Wallet,3,153.43,6.4,57.0,5,4.0,No,430.83
+TX-00624,2026-03-19 21:00:00,Monitor,East,Mobile App,Regular,Wallet,4,258.28,8.6,24.0,5,4.8,No,944.27
+TX-00625,2026-03-20 00:00:00,Office Chair,Central,Mobile App,Regular,UPI,4,161.05,11.8,1.0,5,4.0,No,568.18
+TX-00626,2026-03-20 03:00:00,Monitor,Central,Website,New,UPI,1,238.17,7.3,20.0,5,4.8,No,220.78
+TX-00627,2026-03-20 06:00:00,Webcam,South,Mobile App,Regular,Card,2,68.12,7.9,36.0,5,3.6,No,125.48
+TX-00628,2026-03-20 09:00:00,Notebook,South,Mobile App,Loyal,UPI,1,7.91,8.9,12.0,7,4.0,No,7.21
+TX-00629,2026-03-20 12:00:00,Keyboard,East,Corporate,Regular,Bank Transfer,2,43.93,13.6,75.0,6,4.1,No,75.91
+TX-00630,2026-03-20 15:00:00,Webcam,South,Mobile App,Regular,COD,4,71.81,8.5,5.0,4,4.5,No,262.82
+TX-00631,2026-03-20 18:00:00,Office Chair,North,Mobile App,Loyal,UPI,3,188.43,15.2,46.0,3,4.4,No,479.37
+TX-00632,2026-03-20 21:00:00,Webcam,South,Corporate,New,Card,5,77.81,8.1,83.0,4,4.6,No,357.54
+TX-00633,2026-03-21 00:00:00,Notebook,East,Mobile App,Regular,Wallet,4,9.21,8.3,29.0,4,4.3,No,33.78
+TX-00634,2026-03-21 03:00:00,Headphones,East,Website,Regular,Wallet,2,56.86,3.5,46.0,5,4.6,No,109.74
+TX-00635,2026-03-21 06:00:00,Notebook,Central,Website,Enterprise,Card,8,9.5,8.5,7.0,3,3.7,No,69.54
+TX-00636,2026-03-21 09:00:00,Notebook,East,Website,Loyal,Bank Transfer,5,8.07,15.8,62.0,6,4.4,No,33.97
+TX-00637,2026-03-21 12:00:00,Keyboard,South,Website,Regular,Card,3,50.12,8.2,83.0,2,5.0,No,138.03
+TX-00638,2026-03-21 15:00:00,Keyboard,West,Website,New,Card,3,46.97,8.6,65.0,2,3.3,No,128.79
+TX-00639,2026-03-21 18:00:00,Webcam,West,Marketplace,New,Card,3,66.26,4.3,13.0,4,4.5,No,190.23
+TX-00640,2026-03-21 21:00:00,Webcam,East,Mobile App,Regular,Card,2,71.28,5.3,30.0,3,4.6,No,135.0
+TX-00641,2026-03-22 00:00:00,Webcam,East,Website,Regular,Bank Transfer,1,73.61,11.2,61.0,2,5.0,No,65.37
+TX-00642,2026-03-22 03:00:00,Webcam,South,Mobile App,Enterprise,UPI,10,69.77,20.2,68.0,3,4.6,No,556.76
+TX-00643,2026-03-22 06:00:00,Notebook,Central,Website,Loyal,Card,5,8.34,10.1,34.0,3,4.3,No,37.49
+TX-00644,2026-03-22 09:00:00,Headphones,Central,Corporate,Regular,UPI,4,59.97,10.0,81.0,4,4.4,No,215.89
+TX-00645,2026-03-22 12:00:00,Keyboard,North,Website,Loyal,UPI,1,44.89,12.6,18.0,3,3.8,No,39.23
+TX-00646,2026-03-22 15:00:00,Webcam,South,Mobile App,Enterprise,Card,9,52.15,14.6,63.0,3,4.0,No,400.82
+TX-00647,2026-03-22 18:00:00,Notebook,South,Website,Regular,Card,4,9.46,13.6,42.0,4,3.5,No,32.69
+TX-00648,2026-03-22 21:00:00,Monitor,Central,Mobile App,Regular,Wallet,1,213.55,6.6,60.0,5,5.0,No,199.46
+TX-00649,2026-03-23 00:00:00,Keyboard,North,Website,Loyal,Card,4,41.44,15.7,51.0,6,4.4,No,139.74
+TX-00650,2026-03-23 03:00:00,Notebook,South,Marketplace,Regular,Bank Transfer,3,7.15,9.1,37.0,4,3.7,No,19.5
+TX-00651,2026-03-23 06:00:00,Monitor,South,Website,Loyal,Card,1,212.72,11.9,69.0,4,4.3,No,187.41
+TX-00652,2026-03-23 09:00:00,Office Chair,East,Corporate,New,Wallet,6,170.15,12.1,71.0,4,4.8,No,897.37
+TX-00653,2026-03-23 12:00:00,Keyboard,South,Mobile App,Regular,Bank Transfer,5,41.8,8.9,69.0,5,4.7,Yes,190.4
+TX-00654,2026-03-23 15:00:00,Headphones,East,Marketplace,Loyal,Card,1,51.37,11.7,8.0,5,3.7,No,45.36
+TX-00655,2026-03-23 18:00:00,Webcam,West,Marketplace,Regular,Card,3,73.81,12.1,36.0,6,2.5,No,194.64
+TX-00656,2026-03-23 21:00:00,Headphones,Central,Corporate,Regular,COD,3,67.38,11.7,63.0,2,4.4,No,178.49
+TX-00657,2026-03-24 00:00:00,Webcam,North,Website,Regular,UPI,4,75.99,11.6,73.0,4,3.7,No,268.7
+TX-00658,2026-03-24 03:00:00,Headphones,North,Website,New,UPI,4,61.53,0.0,31.0,4,4.5,No,246.12
+TX-00659,2026-03-24 06:00:00,Keyboard,North,Website,Regular,Card,4,43.33,9.3,63.0,4,4.7,Yes,157.2
+TX-00660,2026-03-24 09:00:00,Monitor,Central,Website,Regular,Card,3,222.31,8.6,48.0,3,4.8,No,609.57
+TX-00661,2026-03-24 12:00:00,Headphones,West,Mobile App,Regular,UPI,4,57.4,7.9,19.0,2,5.0,No,211.46
+TX-00662,2026-03-24 15:00:00,Office Chair,East,Corporate,Regular,Bank Transfer,4,168.51,9.8,76.0,5,4.9,No,607.98
+TX-00663,2026-03-24 18:00:00,Notebook,West,Corporate,Regular,Card,4,7.67,8.8,38.0,3,5.0,No,27.98
+TX-00664,2026-03-24 21:00:00,Notebook,East,Mobile App,Loyal,Bank Transfer,3,8.71,14.0,51.0,2,5.0,No,22.47
+TX-00665,2026-03-25 00:00:00,Headphones,South,Mobile App,Regular,Wallet,2,61.34,7.2,25.0,5,5.0,Yes,113.85
+TX-00666,2026-03-25 03:00:00,Keyboard,East,Marketplace,Regular,Card,5,45.3,12.5,3.0,5,4.2,No,198.19
+TX-00667,2026-03-25 06:00:00,Webcam,West,Corporate,Regular,Card,4,62.11,10.3,39.0,4,3.5,No,222.85
+TX-00668,2026-03-25 09:00:00,Office Chair,North,Website,New,Card,3,174.76,9.6,61.0,3,5.0,No,473.95
+TX-00669,2026-03-25 12:00:00,Headphones,West,Mobile App,Loyal,UPI,1,47.62,13.5,28.0,4,4.2,No,41.19
+TX-00670,2026-03-25 15:00:00,Monitor,East,Marketplace,Regular,UPI,4,221.66,11.5,79.0,6,4.9,No,784.68
+TX-00671,2026-03-25 18:00:00,Notebook,North,Website,New,UPI,5,8.21,11.1,64.0,2,3.9,No,36.49
+TX-00672,2026-03-25 21:00:00,Keyboard,South,Website,Enterprise,Card,7,43.8,14.7,54.0,2,4.7,No,261.53
+TX-00673,2026-03-26 00:00:00,Office Chair,East,Corporate,Loyal,Wallet,5,184.4,15.0,68.0,3,2.9,Yes,783.7
+TX-00674,2026-03-26 03:00:00,Keyboard,South,Corporate,Loyal,UPI,2,46.92,12.5,73.0,4,4.0,No,82.11
+TX-00675,2026-03-26 06:00:00,Keyboard,South,Corporate,Loyal,UPI,1,46.17,17.8,61.0,3,4.1,No,37.95
+TX-00676,2026-03-26 09:00:00,Monitor,West,Marketplace,Loyal,UPI,7,195.09,15.3,70.0,5,4.5,No,1156.69
+TX-00677,2026-03-26 12:00:00,Office Chair,East,Website,Regular,Card,5,175.5,6.1,60.0,5,4.8,No,823.97
+TX-00678,2026-03-26 15:00:00,Monitor,East,Website,Regular,Wallet,3,229.2,15.0,73.0,4,3.6,No,584.46
+TX-00679,2026-03-26 18:00:00,Notebook,West,Mobile App,Regular,UPI,3,9.37,1.7,9.0,5,4.6,No,27.63
+TX-00680,2026-03-26 21:00:00,Headphones,North,Mobile App,Regular,UPI,5,53.52,9.9,29.0,4,4.9,Yes,241.11
+TX-00681,2026-03-27 00:00:00,Notebook,South,Mobile App,Regular,Card,5,8.45,5.9,75.0,4,5.0,No,39.76
+TX-00682,2026-03-27 03:00:00,Headphones,North,Mobile App,New,UPI,1,60.05,13.6,40.0,2,4.6,No,51.88
+TX-00683,2026-03-27 06:00:00,Notebook,Central,Website,Loyal,UPI,3,7.84,12.8,2.0,3,3.9,No,20.51
+TX-00684,2026-03-27 09:00:00,Monitor,North,Mobile App,Loyal,UPI,4,246.77,9.6,72.0,2,3.5,No,892.32
+TX-00685,2026-03-27 12:00:00,Keyboard,Central,Website,Loyal,Bank Transfer,1,50.75,11.2,56.0,4,5.0,No,45.07
+TX-00686,2026-03-27 15:00:00,Headphones,North,Website,Regular,Bank Transfer,5,63.14,5.9,77.0,4,4.6,No,297.07
+TX-00687,2026-03-27 18:00:00,Monitor,South,Website,Regular,Card,5,230.32,7.1,2.0,2,4.2,No,1069.84
+TX-00688,2026-03-27 21:00:00,Office Chair,West,Website,Regular,Wallet,3,227.91,7.0,13.0,4,3.3,No,635.87
+TX-00689,2026-03-28 00:00:00,Webcam,Central,Marketplace,Regular,UPI,75,65.82,85.0,43.0,3,3.7,No,740.48
+TX-00690,2026-03-28 03:00:00,Keyboard,North,Website,Loyal,COD,2,55.65,12.8,16.0,3,4.5,No,97.05
+TX-00691,2026-03-28 06:00:00,Headphones,South,Website,Loyal,Card,2,59.39,13.2,44.0,3,4.4,No,103.1
+TX-00692,2026-03-28 09:00:00,Office Chair,Central,Marketplace,Loyal,Card,4,205.82,9.0,30.0,3,3.1,No,749.18
+TX-00693,2026-03-28 12:00:00,Headphones,South,Mobile App,Loyal,UPI,1,53.27,7.0,18.0,5,4.5,No,49.54
+TX-00694,2026-03-28 15:00:00,Headphones,South,Website,Enterprise,Card,15,59.85,15.9,65.0,4,3.3,No,755.01
+TX-00695,2026-03-28 18:00:00,Office Chair,West,Website,Regular,Wallet,3,207.61,9.6,4.0,5,4.9,No,563.04
+TX-00696,2026-03-28 21:00:00,Monitor,North,Website,New,UPI,2,197.33,10.2,74.0,3,4.3,No,354.4
+TX-00697,2026-03-29 00:00:00,Webcam,Central,Mobile App,New,Card,3,68.87,9.7,13.0,3,3.9,No,186.57
+TX-00698,2026-03-29 03:00:00,Keyboard,Central,Website,Regular,UPI,6,36.33,12.7,49.0,6,4.7,No,190.3
+TX-00699,2026-03-29 06:00:00,Keyboard,Central,Website,Regular,Bank Transfer,5,44.2,11.0,84.0,2,4.4,Yes,196.69
+TX-00700,2026-03-29 09:00:00,Headphones,South,Website,New,Bank Transfer,5,50.69,16.0,10.0,6,4.9,No,212.9
+TX-00701,2026-03-29 12:00:00,Headphones,North,Mobile App,Enterprise,UPI,11,53.82,24.3,78.0,6,4.2,No,448.16
+TX-00702,2026-03-29 15:00:00,Headphones,East,Website,New,Card,3,73.68,2.7,26.0,5,4.3,No,215.07
+TX-00703,2026-03-29 18:00:00,Notebook,South,Marketplace,Enterprise,Card,9,9.5,8.4,63.0,4,4.0,No,78.32
+TX-00704,2026-03-29 21:00:00,Webcam,Central,Website,Loyal,Bank Transfer,2,60.62,12.0,72.0,6,4.3,No,106.69
+TX-00705,2026-03-30 00:00:00,Headphones,West,Mobile App,Regular,Wallet,2,58.14,9.5,20.0,4,5.0,No,105.23
+TX-00706,2026-03-30 03:00:00,Keyboard,Central,Website,Loyal,UPI,6,48.74,11.8,30.0,3,3.9,No,257.93
+TX-00707,2026-03-30 06:00:00,Webcam,West,Website,Regular,Bank Transfer,2,67.67,10.1,73.0,3,4.6,Yes,121.67
+TX-00708,2026-03-30 09:00:00,Webcam,West,Website,Regular,Card,3,71.26,7.2,9.0,3,3.7,No,198.39
+TX-00709,2026-03-30 12:00:00,Monitor,North,Marketplace,New,Wallet,2,226.16,5.9,10.0,3,3.1,No,425.63
+TX-00710,2026-03-30 15:00:00,Monitor,North,Marketplace,Enterprise,Card,14,192.28,13.4,26.0,5,4.3,No,2331.2
+TX-00711,2026-03-30 18:00:00,Office Chair,North,Website,Regular,Card,2,162.36,7.4,51.0,3,4.4,No,300.69
+TX-00712,2026-03-30 21:00:00,Keyboard,East,Website,Regular,UPI,4,45.78,10.5,68.0,4,4.1,No,163.89
+TX-00713,2026-03-31 00:00:00,Webcam,South,Corporate,Loyal,UPI,5,70.7,10.5,48.0,2,3.4,Yes,316.38
+TX-00714,2026-03-31 03:00:00,Office Chair,Central,Mobile App,Loyal,COD,4,167.69,11.1,42.0,4,4.4,Yes,596.31
+TX-00715,2026-03-31 06:00:00,Webcam,North,Website,Regular,Card,3,64.65,9.7,74.0,2,4.3,No,175.14
+TX-00716,2026-03-31 09:00:00,Notebook,Central,Website,Regular,Bank Transfer,4,7.93,7.4,15.0,2,3.7,No,29.37
+TX-00717,2026-03-31 12:00:00,Keyboard,West,Mobile App,New,Wallet,6,49.17,11.4,76.0,4,3.5,No,261.39
+TX-00718,2026-03-31 15:00:00,Notebook,North,Mobile App,Loyal,Wallet,2,7.94,9.2,27.0,5,4.1,No,14.42
+TX-00719,2026-03-31 18:00:00,Keyboard,North,Mobile App,Regular,COD,3,52.93,4.6,24.0,5,4.6,No,151.49
+TX-00720,2026-03-31 21:00:00,Office Chair,South,Corporate,Regular,UPI,4,167.9,8.9,81.0,5,4.4,No,611.83
+TX-00721,2026-04-01 00:00:00,Monitor,South,Mobile App,New,UPI,4,224.29,9.2,55.0,4,3.7,No,814.62
+TX-00722,2026-04-01 03:00:00,Monitor,South,Website,Regular,Card,3,212.34,5.4,37.0,4,4.3,No,602.62
+TX-00723,2026-04-01 06:00:00,Notebook,East,Mobile App,Regular,Card,2,8.48,12.0,28.0,5,4.7,No,14.92
+TX-00724,2026-04-01 09:00:00,Office Chair,North,Website,Regular,Bank Transfer,4,166.47,13.8,38.0,3,3.6,Yes,573.99
+TX-00725,2026-04-01 12:00:00,Notebook,North,Website,New,UPI,2,9.7,6.1,67.0,5,4.2,No,18.22
+TX-00726,2026-04-01 15:00:00,Notebook,West,Website,New,UPI,2,6.76,12.5,13.0,6,4.9,No,11.83
+TX-00727,2026-04-01 18:00:00,Headphones,Central,Website,Regular,Card,4,65.29,0.9,15.0,3,3.5,Yes,258.81
+TX-00728,2026-04-01 21:00:00,Notebook,South,Mobile App,New,UPI,4,8.07,11.2,26.0,3,4.8,No,28.66
+TX-00729,2026-04-02 00:00:00,Monitor,Central,Website,Loyal,Wallet,5,232.5,9.4,41.0,3,5.0,No,1053.23
+TX-00730,2026-04-02 03:00:00,Monitor,South,Website,Enterprise,Card,10,251.41,17.9,69.0,2,4.1,No,2064.08
+TX-00731,2026-04-02 06:00:00,Headphones,South,Mobile App,Regular,Wallet,3,59.93,5.1,18.0,3,4.0,No,170.62
+TX-00732,2026-04-02 09:00:00,Notebook,North,Mobile App,Loyal,UPI,3,7.44,11.8,67.0,6,4.8,No,19.69
+TX-00733,2026-04-02 12:00:00,Notebook,East,Marketplace,New,Bank Transfer,2,8.49,5.6,77.0,3,4.1,No,16.03
+TX-00734,2026-04-02 15:00:00,Headphones,East,Marketplace,New,Card,4,66.29,7.4,37.0,6,2.9,No,245.54
+TX-00735,2026-04-02 18:00:00,Notebook,West,Mobile App,Loyal,UPI,3,7.32,17.5,81.0,3,4.1,No,18.12
+TX-00736,2026-04-02 21:00:00,Keyboard,North,Website,Loyal,Card,3,55.62,11.7,76.0,7,4.5,No,147.34
+TX-00737,2026-04-03 00:00:00,Headphones,North,Mobile App,Loyal,UPI,2,57.16,18.3,67.0,3,4.6,No,93.4
+TX-00738,2026-04-03 03:00:00,Headphones,East,Mobile App,New,Wallet,4,52.67,6.8,32.0,4,3.7,Yes,196.35
+TX-00739,2026-04-03 06:00:00,Monitor,North,Website,Loyal,UPI,2,201.2,16.5,26.0,3,4.1,No,336.0
+TX-00740,2026-04-03 09:00:00,Monitor,North,Website,Regular,Card,1,215.14,3.1,73.0,3,4.7,No,208.47
+TX-00741,2026-04-03 12:00:00,Notebook,West,Website,Regular,Bank Transfer,4,6.58,7.1,38.0,6,4.2,No,24.45
+TX-00742,2026-04-03 15:00:00,Notebook,Central,Mobile App,New,Card,2,7.67,6.4,3.0,5,3.4,Yes,14.36
+TX-00743,2026-04-03 18:00:00,Webcam,East,Website,Enterprise,UPI,8,68.18,19.6,61.0,5,4.9,No,438.53
+TX-00744,2026-04-03 21:00:00,Notebook,North,Website,New,COD,3,7.19,8.6,30.0,2,4.1,No,19.71
+TX-00745,2026-04-04 00:00:00,Monitor,Central,Marketplace,Loyal,UPI,4,237.08,5.7,79.0,5,4.8,No,894.27
+TX-00746,2026-04-04 03:00:00,Monitor,East,Corporate,Regular,Bank Transfer,1,215.24,4.1,72.0,3,3.4,No,206.42
+TX-00747,2026-04-04 06:00:00,Headphones,West,Website,Loyal,UPI,3,51.61,9.0,9.0,2,4.1,No,140.9
+TX-00748,2026-04-04 09:00:00,Monitor,North,Corporate,Loyal,Bank Transfer,1,212.96,14.8,76.0,4,4.5,No,181.44
+TX-00749,2026-04-04 12:00:00,Webcam,East,Website,Loyal,Wallet,3,72.53,14.4,80.0,4,4.2,No,186.26
+TX-00750,2026-04-04 15:00:00,Webcam,North,Corporate,New,Wallet,4,70.51,7.1,64.0,4,3.5,No,262.02
+TX-00751,2026-04-04 18:00:00,Headphones,West,Corporate,New,Card,4,51.28,6.4,24.0,5,2.9,No,191.99
+TX-00752,2026-04-04 21:00:00,Headphones,South,Website,Regular,Wallet,1,55.7,10.1,57.0,5,5.0,No,50.07
+TX-00753,2026-04-05 00:00:00,Headphones,Central,Marketplace,Regular,Card,4,54.72,4.6,73.0,6,4.3,No,208.81
+TX-00754,2026-04-05 03:00:00,Monitor,North,Corporate,New,COD,4,196.31,9.4,69.0,2,4.8,No,711.43
+TX-00755,2026-04-05 06:00:00,Keyboard,West,Corporate,New,Card,5,43.72,9.1,37.0,6,4.7,No,198.71
+TX-00756,2026-04-05 09:00:00,Headphones,North,Corporate,Regular,Card,3,58.28,7.2,60.0,6,4.5,No,162.25
+TX-00757,2026-04-05 12:00:00,Headphones,West,Mobile App,New,Bank Transfer,3,58.24,9.2,33.0,4,4.0,No,158.65
+TX-00758,2026-04-05 15:00:00,Office Chair,East,Website,New,Card,1,175.91,8.3,22.0,2,4.5,No,161.31
+TX-00759,2026-04-05 18:00:00,Notebook,Central,Marketplace,Loyal,UPI,4,8.56,13.5,57.0,2,5.0,No,29.62
+TX-00760,2026-04-05 21:00:00,Monitor,West,Mobile App,Regular,Wallet,4,199.46,4.0,40.0,3,4.2,No,765.93
+TX-00761,2026-04-06 00:00:00,Keyboard,South,Mobile App,Enterprise,Card,6,40.93,16.8,19.0,7,5.0,No,204.32
+TX-00762,2026-04-06 03:00:00,Notebook,North,Website,Enterprise,Card,9,7.8,18.1,56.0,4,3.4,No,57.49
+TX-00763,2026-04-06 06:00:00,Notebook,East,Mobile App,New,UPI,5,9.29,9.0,28.0,3,3.3,Yes,42.27
+TX-00764,2026-04-06 09:00:00,Notebook,East,Website,Loyal,Card,4,8.13,13.8,50.0,3,4.7,No,28.03
+TX-00765,2026-04-06 12:00:00,Office Chair,North,Mobile App,Regular,Card,2,175.11,7.7,31.0,2,3.7,No,323.25
+TX-00766,2026-04-06 15:00:00,Notebook,East,Website,Loyal,Card,5,9.34,14.7,75.0,5,5.0,No,39.84
+TX-00767,2026-04-06 18:00:00,Notebook,South,Mobile App,New,UPI,2,7.77,8.2,72.0,4,4.9,No,14.27
+TX-00768,2026-04-06 21:00:00,Notebook,South,Marketplace,New,Card,1,10.0,4.6,40.0,7,5.0,No,9.54
+TX-00769,2026-04-07 00:00:00,Notebook,North,Mobile App,New,Card,2,7.6,10.5,60.0,5,4.7,No,13.6
+TX-00770,2026-04-07 03:00:00,Keyboard,South,Mobile App,Regular,UPI,3,40.67,3.1,15.0,5,3.7,No,118.23
+TX-00771,2026-04-07 06:00:00,Headphones,South,Website,Enterprise,UPI,18,54.09,15.8,84.0,4,3.3,No,819.79
+TX-00772,2026-04-07 09:00:00,Keyboard,North,Corporate,Loyal,Card,2,43.89,10.8,19.0,3,5.0,No,78.3
+TX-00773,2026-04-07 12:00:00,Keyboard,East,Mobile App,Loyal,Card,7,41.51,10.7,73.0,3,3.4,No,259.48
+TX-00774,2026-04-07 15:00:00,Webcam,South,Website,Enterprise,Bank Transfer,8,90.8,15.5,72.0,2,5.0,No,613.81
+TX-00775,2026-04-07 18:00:00,Notebook,North,Website,Loyal,UPI,4,8.26,9.9,15.0,5,4.6,No,29.77
+TX-00776,2026-04-07 21:00:00,Webcam,East,Website,New,UPI,2,73.33,9.5,1.0,3,4.2,No,132.73
+TX-00777,2026-04-08 00:00:00,Keyboard,North,Mobile App,Loyal,UPI,5,42.97,12.2,62.0,5,4.4,No,188.64
+TX-00778,2026-04-08 03:00:00,Notebook,Central,Corporate,Regular,Card,4,7.55,6.1,74.0,4,4.5,No,28.36
+TX-00779,2026-04-08 06:00:00,Webcam,East,Mobile App,New,Bank Transfer,1,77.56,12.0,61.0,4,4.1,No,68.25
+TX-00780,2026-04-08 09:00:00,Webcam,Central,Website,Regular,COD,5,59.2,8.6,5.0,2,5.0,Yes,270.54
+TX-00781,2026-04-08 12:00:00,Headphones,Central,Marketplace,Enterprise,COD,9,49.06,16.9,55.0,4,5.0,No,366.92
+TX-00782,2026-04-08 15:00:00,Office Chair,Central,Website,Regular,Card,2,175.6,12.2,33.0,4,4.3,No,308.35
+TX-00783,2026-04-08 18:00:00,Monitor,East,Marketplace,Regular,Card,7,251.82,12.2,77.0,5,3.9,No,1547.69
+TX-00784,2026-04-08 21:00:00,Keyboard,East,Website,New,Card,3,43.35,9.7,68.0,3,4.9,No,117.44
+TX-00785,2026-04-09 00:00:00,Office Chair,West,Mobile App,New,Card,3,187.65,7.1,68.0,5,3.1,No,522.98
+TX-00786,2026-04-09 03:00:00,Headphones,North,Corporate,New,Card,2,55.15,3.7,35.0,6,4.4,No,106.22
+TX-00787,2026-04-09 06:00:00,Webcam,Central,Website,Loyal,UPI,4,79.69,12.6,28.0,4,4.6,No,278.6
+TX-00788,2026-04-09 09:00:00,Headphones,South,Mobile App,Loyal,Card,5,46.94,15.3,70.0,5,3.7,No,198.79
+TX-00789,2026-04-09 12:00:00,Webcam,North,Corporate,New,COD,2,75.35,9.1,10.0,5,4.7,No,136.99
+TX-00790,2026-04-09 15:00:00,Keyboard,South,Website,Regular,Card,2,44.11,0.0,9.0,6,4.2,No,88.22
+TX-00791,2026-04-09 18:00:00,Headphones,South,Website,New,Card,3,60.33,10.6,6.0,4,3.9,No,161.81
+TX-00792,2026-04-09 21:00:00,Monitor,North,Mobile App,New,Bank Transfer,2,202.69,10.8,43.0,5,4.7,No,361.6
+TX-00793,2026-04-10 00:00:00,Headphones,West,Website,Regular,Wallet,3,55.13,7.1,7.0,4,3.6,No,153.65
+TX-00794,2026-04-10 03:00:00,Notebook,North,Website,Loyal,UPI,5,7.92,15.0,49.0,3,4.7,No,33.66
+TX-00795,2026-04-10 06:00:00,Notebook,Central,Mobile App,Regular,UPI,2,7.24,9.9,15.0,2,3.1,No,13.05
+TX-00796,2026-04-10 09:00:00,Headphones,East,Marketplace,Regular,Card,5,48.39,5.9,75.0,6,4.4,Yes,227.67
+TX-00797,2026-04-10 12:00:00,Notebook,West,Website,Regular,Card,3,7.55,11.8,37.0,3,4.2,No,19.98
+TX-00798,2026-04-10 15:00:00,Notebook,South,Website,New,UPI,4,8.1,4.2,8.0,5,3.9,No,31.04
+TX-00799,2026-04-10 18:00:00,Webcam,North,Marketplace,New,UPI,5,64.9,7.8,59.0,5,4.4,Yes,299.19
+TX-00800,2026-04-10 21:00:00,Keyboard,North,Mobile App,Enterprise,UPI,6,43.54,14.5,29.0,5,4.2,No,223.36
+TX-00801,2026-04-11 00:00:00,Webcam,West,Marketplace,Loyal,Card,3,57.97,9.5,22.0,3,4.8,No,157.39
+TX-00802,2026-04-11 03:00:00,Headphones,West,Website,Enterprise,Wallet,11,53.0,15.9,56.0,3,4.5,No,490.3
+TX-00803,2026-04-11 06:00:00,Office Chair,South,Corporate,Loyal,Bank Transfer,2,199.4,15.9,81.0,4,4.4,No,335.39
+TX-00804,2026-04-11 09:00:00,Keyboard,South,Mobile App,Regular,Card,5,48.29,11.7,83.0,4,4.4,Yes,213.2
+TX-00805,2026-04-11 12:00:00,Notebook,Central,Website,Enterprise,Card,11,7.93,17.2,37.0,32,1.0,Yes,72.23
+TX-00806,2026-04-11 15:00:00,Notebook,Central,Marketplace,Regular,UPI,5,8.2,2.9,72.0,7,4.0,No,39.81
+TX-00807,2026-04-11 18:00:00,Keyboard,East,Mobile App,New,Bank Transfer,4,41.42,4.0,18.0,3,4.3,No,159.05
+TX-00808,2026-04-11 21:00:00,Notebook,South,Website,New,Wallet,3,9.41,8.5,72.0,3,4.1,No,25.83
+TX-00809,2026-04-12 00:00:00,Monitor,South,Website,New,Wallet,1,270.54,7.9,80.0,4,4.8,Yes,249.17
+TX-00810,2026-04-12 03:00:00,Office Chair,East,Mobile App,New,UPI,3,182.99,6.5,44.0,6,4.3,No,513.29
+TX-00811,2026-04-12 06:00:00,Notebook,East,Website,Regular,Card,3,10.37,13.7,44.0,1,4.4,No,26.85
+TX-00812,2026-04-12 09:00:00,Notebook,North,Website,Loyal,UPI,3,7.47,12.3,48.0,6,3.4,No,19.65
+TX-00813,2026-04-12 12:00:00,Office Chair,North,Website,Loyal,Card,3,158.83,13.6,7.0,3,4.7,No,411.69
+TX-00814,2026-04-12 15:00:00,Keyboard,East,Website,Regular,Wallet,2,41.92,11.0,73.0,4,3.9,No,74.62
+TX-00815,2026-04-12 18:00:00,Notebook,West,Website,New,Card,3,7.83,8.2,62.0,3,3.6,No,21.56
+TX-00816,2026-04-12 21:00:00,Office Chair,North,Mobile App,Loyal,Card,4,226.82,19.8,74.0,7,5.0,No,727.64
+TX-00817,2026-04-13 00:00:00,Office Chair,East,Website,Regular,UPI,4,175.01,5.2,10.0,4,4.6,Yes,663.64
+TX-00818,2026-04-13 03:00:00,Keyboard,North,Website,New,UPI,1,41.29,6.2,68.0,3,4.7,No,38.73
+TX-00819,2026-04-13 06:00:00,Keyboard,South,Mobile App,Regular,UPI,2,41.13,5.2,31.0,4,4.4,No,77.98
+TX-00820,2026-04-13 09:00:00,Headphones,West,Website,Regular,UPI,4,61.64,12.7,69.0,4,4.1,No,215.25
+TX-00821,2026-04-13 12:00:00,Notebook,South,Mobile App,Regular,COD,5,8.84,10.4,84.0,4,4.0,No,39.6
+TX-00822,2026-04-13 15:00:00,Keyboard,South,Website,Loyal,Bank Transfer,4,42.87,10.4,74.0,5,4.6,No,153.65
+TX-00823,2026-04-13 18:00:00,Headphones,Central,Website,Loyal,Bank Transfer,3,45.59,9.4,77.0,4,4.8,No,123.91
+TX-00824,2026-04-13 21:00:00,Keyboard,North,Website,Loyal,UPI,2,40.2,16.2,10.0,2,4.2,No,67.38
+TX-00825,2026-04-14 00:00:00,Webcam,North,Mobile App,New,UPI,2,83.15,9.1,28.0,4,5.0,No,151.17
+TX-00826,2026-04-14 03:00:00,Notebook,Central,Website,Loyal,UPI,3,8.57,16.2,25.0,5,4.1,No,21.54
+TX-00827,2026-04-14 06:00:00,Keyboard,East,Marketplace,Loyal,UPI,4,45.3,11.8,44.0,3,3.4,No,159.82
+TX-00828,2026-04-14 09:00:00,Headphones,North,Website,New,Card,4,66.3,9.5,82.0,5,3.3,No,240.01
+TX-00829,2026-04-14 12:00:00,Webcam,East,Mobile App,Regular,UPI,3,85.14,8.9,58.0,4,3.3,No,232.69
+TX-00830,2026-04-14 15:00:00,Headphones,East,Mobile App,Regular,Card,4,54.8,6.1,46.0,4,4.0,No,205.83
+TX-00831,2026-04-14 18:00:00,Keyboard,South,Website,Regular,Card,3,44.92,7.6,68.0,6,4.1,No,124.52
+TX-00832,2026-04-14 21:00:00,Keyboard,East,Mobile App,New,Bank Transfer,4,42.46,4.4,15.0,2,4.6,No,162.37
+TX-00833,2026-04-15 00:00:00,Monitor,West,Website,Regular,Card,3,213.83,9.5,56.0,3,4.2,No,580.55
+TX-00834,2026-04-15 03:00:00,Keyboard,South,Website,New,UPI,2,38.78,10.3,43.0,6,4.7,No,69.57
+TX-00835,2026-04-15 06:00:00,Webcam,Central,Website,New,UPI,3,60.31,11.0,18.0,6,4.2,No,161.03
+TX-00836,2026-04-15 09:00:00,Keyboard,East,Marketplace,New,Card,4,37.88,10.0,55.0,7,4.2,No,136.37
+TX-00837,2026-04-15 12:00:00,Webcam,Central,Corporate,Enterprise,Bank Transfer,14,78.02,14.6,71.0,4,3.9,No,932.81
+TX-00838,2026-04-15 15:00:00,Office Chair,North,Website,Regular,Card,2,153.98,12.7,70.0,5,5.0,No,268.85
+TX-00839,2026-04-15 18:00:00,Monitor,South,Mobile App,Regular,Bank Transfer,2,267.37,10.7,71.0,5,3.4,No,477.52
+TX-00840,2026-04-15 21:00:00,Monitor,West,Marketplace,Regular,Bank Transfer,2,204.5,12.2,69.0,6,4.4,No,359.1
+TX-00841,2026-04-16 00:00:00,Notebook,Central,Website,Loyal,Card,1,9.52,16.4,40.0,4,4.1,No,7.96
+TX-00842,2026-04-16 03:00:00,Webcam,South,Marketplace,Regular,Card,1,67.49,7.6,5.0,5,4.6,No,62.36
+TX-00843,2026-04-16 06:00:00,Monitor,Central,Mobile App,Loyal,Card,1,188.11,13.2,82.0,5,4.2,No,163.28
+TX-00844,2026-04-16 09:00:00,Monitor,North,Corporate,Regular,UPI,2,250.14,10.3,39.0,5,4.2,No,448.75
+TX-00845,2026-04-16 12:00:00,Notebook,East,Corporate,New,Card,2,9.2,4.6,54.0,3,4.1,No,17.55
+TX-00846,2026-04-16 15:00:00,Office Chair,South,Website,Regular,COD,3,164.41,4.6,2.0,4,5.0,No,470.54
+TX-00847,2026-04-16 18:00:00,Monitor,East,Website,Regular,Card,4,212.82,4.1,75.0,3,4.2,No,816.38
+TX-00848,2026-04-16 21:00:00,Keyboard,Central,Mobile App,Loyal,Bank Transfer,3,41.1,11.7,75.0,2,5.0,No,108.87
+TX-00849,2026-04-17 00:00:00,Notebook,West,Website,Loyal,Card,4,7.9,11.0,78.0,2,4.3,No,28.12
+TX-00850,2026-04-17 03:00:00,Office Chair,West,Website,Regular,COD,4,181.95,3.7,15.0,3,4.2,No,700.87
+TX-00851,2026-04-17 06:00:00,Notebook,South,Corporate,Enterprise,Card,9,7.72,15.4,71.0,4,4.1,No,58.78
+TX-00852,2026-04-17 09:00:00,Notebook,Central,Website,Regular,UPI,4,6.67,7.7,53.0,4,4.5,No,24.63
+TX-00853,2026-04-17 12:00:00,Webcam,East,Mobile App,Regular,UPI,1,66.05,11.5,13.0,5,3.9,No,58.45
+TX-00854,2026-04-17 15:00:00,Office Chair,West,Marketplace,Regular,Card,3,193.12,14.0,48.0,4,4.3,No,498.25
+TX-00855,2026-04-17 18:00:00,Headphones,West,Website,New,Bank Transfer,4,53.86,9.4,41.0,4,4.2,No,195.19
+TX-00856,2026-04-17 21:00:00,Monitor,West,Mobile App,Loyal,Card,3,212.91,9.9,53.0,3,4.4,No,575.5
+TX-00857,2026-04-18 00:00:00,Webcam,West,Corporate,New,UPI,5,63.78,9.9,8.0,5,4.4,No,287.33
+TX-00858,2026-04-18 03:00:00,Webcam,East,Mobile App,Regular,UPI,2,65.86,8.0,48.0,4,4.4,No,121.18
+TX-00859,2026-04-18 06:00:00,Headphones,West,Website,Regular,UPI,1,63.32,7.3,57.0,3,4.3,No,58.7
+TX-00860,2026-04-18 09:00:00,Monitor,Central,Website,New,Card,2,196.3,5.4,61.0,4,5.0,No,371.4
+TX-00861,2026-04-18 12:00:00,Webcam,South,Corporate,New,Card,2,75.23,6.6,65.0,3,4.4,No,140.53
+TX-00862,2026-04-18 15:00:00,Webcam,East,Website,Loyal,Card,1,70.33,11.5,53.0,3,5.0,No,62.24
+TX-00863,2026-04-18 18:00:00,Webcam,North,Mobile App,New,Card,2,71.73,10.4,59.0,3,4.2,No,128.54
+TX-00864,2026-04-18 21:00:00,Keyboard,South,Website,Regular,Card,3,41.82,9.5,8.0,4,4.7,No,113.54
+TX-00865,2026-04-19 00:00:00,Notebook,West,Website,Regular,COD,4,7.72,13.5,68.0,5,3.8,Yes,26.71
+TX-00866,2026-04-19 03:00:00,Office Chair,West,Corporate,Regular,UPI,2,179.9,10.0,31.0,5,5.0,No,323.82
+TX-00867,2026-04-19 06:00:00,Webcam,South,Mobile App,New,UPI,4,66.45,9.3,46.0,6,3.8,No,241.08
+TX-00868,2026-04-19 09:00:00,Webcam,East,Corporate,Loyal,UPI,3,72.36,11.1,46.0,6,4.5,No,192.98
+TX-00869,2026-04-19 12:00:00,Notebook,Central,Website,Enterprise,Card,14,8.37,11.9,82.0,7,4.1,No,103.24
+TX-00870,2026-04-19 15:00:00,Headphones,North,Mobile App,New,UPI,2,68.35,6.3,28.0,5,4.4,Yes,128.09
+TX-00871,2026-04-19 18:00:00,Webcam,North,Marketplace,Enterprise,Card,6,71.97,12.9,33.0,5,4.1,No,376.12
+TX-00872,2026-04-19 21:00:00,Notebook,South,Website,Regular,UPI,2,6.61,0.3,64.0,3,3.8,No,13.18
+TX-00873,2026-04-20 00:00:00,Office Chair,West,Website,Regular,UPI,5,202.2,5.0,54.0,5,4.1,No,960.45
+TX-00874,2026-04-20 03:00:00,Headphones,South,Marketplace,Loyal,UPI,2,53.89,16.8,27.0,3,5.0,No,89.67
+TX-00875,2026-04-20 06:00:00,Keyboard,Central,Website,Loyal,COD,2,55.03,13.1,29.0,2,4.5,No,95.64
+TX-00876,2026-04-20 09:00:00,Office Chair,Central,Mobile App,Loyal,Card,4,208.52,10.9,70.0,6,3.5,No,743.17
+TX-00877,2026-04-20 12:00:00,Monitor,East,Corporate,Regular,UPI,2,209.16,9.2,71.0,2,4.8,No,379.83
+TX-00878,2026-04-20 15:00:00,Headphones,South,Website,Regular,Card,2,59.12,2.1,13.0,5,3.7,No,115.76
+TX-00879,2026-04-20 18:00:00,Keyboard,North,Website,Regular,UPI,3,42.41,8.8,34.0,3,4.6,No,116.03
+TX-00880,2026-04-20 21:00:00,Keyboard,Central,Website,New,Wallet,2,45.01,11.8,65.0,5,4.5,No,79.4
+TX-00881,2026-04-21 00:00:00,Monitor,Central,Website,Loyal,Card,1,235.39,11.6,10.0,6,4.5,No,208.08
+TX-00882,2026-04-21 03:00:00,Keyboard,East,Website,New,UPI,2,50.3,2.7,16.0,5,5.0,No,97.88
+TX-00883,2026-04-21 06:00:00,Office Chair,East,Mobile App,Regular,UPI,2,196.86,6.8,14.0,6,3.7,No,366.95
+TX-00884,2026-04-21 09:00:00,Monitor,West,Website,New,Card,4,221.66,11.8,45.0,4,4.5,No,782.02
+TX-00885,2026-04-21 12:00:00,Notebook,West,Mobile App,New,COD,1,10.26,8.8,38.0,7,4.9,No,9.36
+TX-00886,2026-04-21 15:00:00,Headphones,North,Website,Regular,UPI,2,53.03,3.7,27.0,5,3.8,No,102.14
+TX-00887,2026-04-21 18:00:00,Monitor,West,Website,Regular,Bank Transfer,2,187.34,15.1,12.0,3,3.8,Yes,318.1
+TX-00888,2026-04-21 21:00:00,Notebook,Central,Website,Regular,UPI,2,6.94,4.2,54.0,4,4.0,No,13.3
+TX-00889,2026-04-22 00:00:00,Notebook,West,Mobile App,New,COD,3,9.27,7.3,68.0,4,4.4,No,25.78
+TX-00890,2026-04-22 03:00:00,Keyboard,East,Mobile App,Regular,Card,1,44.66,4.9,18.0,4,3.4,No,42.47
+TX-00891,2026-04-22 06:00:00,Headphones,East,Website,Regular,UPI,2,55.88,4.9,56.0,2,4.5,No,106.28
+TX-00892,2026-04-22 09:00:00,Office Chair,South,Marketplace,Loyal,Wallet,1,170.49,10.6,67.0,5,3.4,No,152.42
+TX-00893,2026-04-22 12:00:00,Headphones,West,Mobile App,Regular,UPI,2,52.57,9.9,47.0,2,4.9,No,94.73
+TX-00894,2026-04-22 15:00:00,Notebook,South,Website,Regular,UPI,1,7.39,11.9,49.0,1,4.5,No,6.51
+TX-00895,2026-04-22 18:00:00,Webcam,South,Corporate,Regular,COD,3,73.38,6.8,15.0,4,5.0,Yes,205.17
+TX-00896,2026-04-22 21:00:00,Office Chair,South,Website,Enterprise,UPI,8,178.26,12.0,81.0,3,4.6,Yes,1254.95
+TX-00897,2026-04-23 00:00:00,Headphones,South,Website,Loyal,Wallet,3,57.45,13.4,81.0,3,4.0,No,149.26
+TX-00898,2026-04-23 03:00:00,Headphones,South,Mobile App,Regular,Wallet,2,56.9,9.5,60.0,1,3.8,No,102.99
+TX-00899,2026-04-23 06:00:00,Notebook,North,Website,Regular,Bank Transfer,6,7.67,8.7,76.0,3,4.3,No,42.02
+TX-00900,2026-04-23 09:00:00,Monitor,West,Website,New,Bank Transfer,7,190.14,8.8,52.0,4,4.2,No,1213.85
+TX-00901,2026-04-23 12:00:00,Monitor,East,Mobile App,Enterprise,UPI,11,188.49,14.7,56.0,3,4.9,No,1768.6
+TX-00902,2026-04-23 15:00:00,Headphones,Central,Website,Regular,Card,2,74.44,8.3,70.0,5,3.7,No,136.52
+TX-00903,2026-04-23 18:00:00,Notebook,North,Marketplace,Regular,Card,3,9.27,7.5,4.0,6,5.0,No,25.72
+TX-00904,2026-04-23 21:00:00,Monitor,West,Corporate,Enterprise,UPI,9,251.55,18.2,19.0,5,4.9,No,1851.91
+TX-00905,2026-04-24 00:00:00,Office Chair,North,Mobile App,Loyal,Bank Transfer,2,168.26,18.7,18.0,5,4.1,No,273.59
+TX-00906,2026-04-24 03:00:00,Keyboard,East,Mobile App,New,UPI,1,45.04,8.5,54.0,5,5.0,No,41.21
+TX-00907,2026-04-24 06:00:00,Monitor,East,Mobile App,New,Card,3,202.77,8.0,21.0,3,3.8,No,559.65
+TX-00908,2026-04-24 09:00:00,Notebook,East,Corporate,New,Card,4,7.02,8.8,33.0,5,4.3,No,25.61
+TX-00909,2026-04-24 12:00:00,Headphones,West,Website,Regular,UPI,3,51.86,6.0,42.0,5,3.5,No,146.25
+TX-00910,2026-04-24 15:00:00,Headphones,Central,Website,New,Bank Transfer,6,62.8,10.3,63.0,3,5.0,No,337.99
+TX-00911,2026-04-24 18:00:00,Webcam,South,Mobile App,Enterprise,Card,15,76.14,16.3,44.0,3,3.3,No,955.94
+TX-00912,2026-04-24 21:00:00,Webcam,Central,Mobile App,Enterprise,UPI,5,63.53,13.7,3.0,5,3.4,No,274.13
+TX-00913,2026-04-25 00:00:00,Office Chair,North,Website,Regular,Wallet,2,174.42,10.7,58.0,2,3.9,No,311.51
+TX-00914,2026-04-25 03:00:00,Office Chair,South,Mobile App,Regular,COD,2,194.0,8.1,36.0,3,4.9,No,356.57
+TX-00915,2026-04-25 06:00:00,Office Chair,South,Website,Regular,Card,2,170.01,5.1,10.0,3,4.7,No,322.68
+TX-00916,2026-04-25 09:00:00,Office Chair,Central,Corporate,New,COD,2,181.44,9.1,55.0,5,4.3,No,329.86
+TX-00917,2026-04-25 12:00:00,Notebook,North,Website,Loyal,UPI,4,8.33,12.7,23.0,4,4.8,No,29.09
+TX-00918,2026-04-25 15:00:00,Notebook,South,Website,New,Bank Transfer,3,8.32,10.9,39.0,5,4.1,No,22.24
+TX-00919,2026-04-25 18:00:00,Headphones,East,Website,New,Card,2,56.42,10.5,82.0,3,4.4,No,100.99
+TX-00920,2026-04-25 21:00:00,Keyboard,Central,Website,Regular,UPI,2,42.15,7.7,20.0,3,5.0,No,77.81
+TX-00921,2026-04-26 00:00:00,Notebook,East,Website,New,UPI,2,7.57,6.6,75.0,5,4.1,No,14.14
+TX-00922,2026-04-26 03:00:00,Webcam,Central,Website,Regular,Card,3,62.5,8.0,40.0,3,3.8,No,172.5
+TX-00923,2026-04-26 06:00:00,Keyboard,West,Website,Loyal,UPI,4,38.5,13.1,79.0,3,4.5,No,133.83
+TX-00924,2026-04-26 09:00:00,Keyboard,West,Website,Loyal,UPI,3,44.49,13.5,72.0,2,4.6,No,115.45
+TX-00925,2026-04-26 12:00:00,Notebook,West,Website,Regular,UPI,4,8.68,8.9,70.0,4,4.3,No,31.63
+TX-00926,2026-04-26 15:00:00,Headphones,North,Website,Loyal,Card,2,47.91,11.7,18.0,6,4.8,Yes,84.61
+TX-00927,2026-04-26 18:00:00,Notebook,East,Website,Regular,UPI,2,8.22,11.0,67.0,3,4.1,No,14.63
+TX-00928,2026-04-26 21:00:00,Webcam,East,Website,Loyal,Card,1,75.71,10.0,31.0,5,4.3,No,68.14
+TX-00929,2026-04-27 00:00:00,Keyboard,South,Website,Regular,COD,4,37.45,15.4,77.0,4,4.4,No,126.73
+TX-00930,2026-04-27 03:00:00,Webcam,North,Website,Regular,COD,2,68.13,10.3,84.0,2,4.4,No,122.23
+TX-00931,2026-04-27 06:00:00,Headphones,North,Website,Enterprise,Card,9,64.84,11.6,52.0,3,5.0,No,515.87
+TX-00932,2026-04-27 09:00:00,Headphones,West,Marketplace,Regular,Card,2,58.12,8.6,77.0,3,4.4,No,106.24
+TX-00933,2026-04-27 12:00:00,Monitor,West,Corporate,New,Card,2,182.47,10.3,45.0,4,4.0,No,327.35
+TX-00934,2026-04-27 15:00:00,Webcam,South,Corporate,Regular,UPI,2,74.76,7.0,3.0,5,4.5,No,139.05
+TX-00935,2026-04-27 18:00:00,Webcam,West,Mobile App,Regular,Bank Transfer,4,64.96,3.5,74.0,6,4.8,No,250.75
+TX-00936,2026-04-27 21:00:00,Headphones,West,Mobile App,Regular,UPI,4,58.94,4.9,45.0,2,4.6,No,224.21
+TX-00937,2026-04-28 00:00:00,Office Chair,Central,Website,Regular,Card,4,168.0,9.6,4.0,3,4.6,No,607.49
+TX-00938,2026-04-28 03:00:00,Notebook,Central,Marketplace,Loyal,Card,2,7.96,6.7,6.0,3,3.4,No,14.85
+TX-00939,2026-04-28 06:00:00,Office Chair,Central,Marketplace,Regular,Card,3,170.58,3.7,61.0,2,2.8,No,492.81
+TX-00940,2026-04-28 09:00:00,Notebook,North,Marketplace,Regular,Bank Transfer,2,8.0,9.6,78.0,4,4.9,No,14.46
+TX-00941,2026-04-28 12:00:00,Headphones,West,Marketplace,Regular,UPI,2,51.97,7.3,59.0,4,4.4,No,96.35
+TX-00942,2026-04-28 15:00:00,Webcam,South,Website,Loyal,UPI,6,68.45,9.9,38.0,2,4.2,No,370.04
+TX-00943,2026-04-28 18:00:00,Notebook,East,Marketplace,New,Card,4,7.11,6.5,26.0,4,4.6,No,26.59
+TX-00944,2026-04-28 21:00:00,Monitor,West,Marketplace,New,COD,2,231.06,3.6,36.0,2,5.0,No,445.48
+TX-00945,2026-04-29 00:00:00,Monitor,West,Website,Regular,Card,1,223.89,9.5,28.0,4,5.0,No,202.62
+TX-00946,2026-04-29 03:00:00,Headphones,East,Corporate,Loyal,Bank Transfer,3,46.79,9.6,23.0,6,4.7,No,126.89
+TX-00947,2026-04-29 06:00:00,Keyboard,Central,Website,Loyal,Bank Transfer,1,49.7,10.4,11.0,5,3.7,No,44.53
+TX-00948,2026-04-29 09:00:00,Webcam,North,Corporate,Regular,UPI,2,68.78,9.0,48.0,4,3.8,No,125.18
+TX-00949,2026-04-29 12:00:00,Webcam,North,Marketplace,Loyal,Bank Transfer,1,71.14,11.2,19.0,3,2.9,No,63.17
+TX-00950,2026-04-29 15:00:00,Headphones,North,Website,Regular,Card,5,59.37,5.9,13.0,4,4.5,No,279.34
+TX-00951,2026-04-29 18:00:00,Keyboard,Central,Mobile App,New,Wallet,4,46.5,2.0,24.0,5,4.8,No,182.28
+TX-00952,2026-04-29 21:00:00,Headphones,East,Website,New,Card,2,61.8,9.1,68.0,5,4.9,No,112.35
+TX-00953,2026-04-30 00:00:00,Headphones,East,Marketplace,New,UPI,1,53.41,8.2,49.0,4,4.6,No,49.03
+TX-00954,2026-04-30 03:00:00,Notebook,West,Marketplace,Regular,Card,2,8.87,6.4,42.0,4,4.1,No,16.6
+TX-00955,2026-04-30 06:00:00,Office Chair,East,Mobile App,Regular,Card,4,182.23,4.9,50.0,2,3.9,No,693.2
+TX-00956,2026-04-30 09:00:00,Office Chair,East,Marketplace,Regular,Card,4,189.37,8.0,48.0,3,3.7,No,696.88
+TX-00957,2026-04-30 12:00:00,Webcam,North,Website,Regular,Card,2,72.88,9.4,42.0,5,4.1,Yes,132.06
+TX-00958,2026-04-30 15:00:00,Monitor,North,Website,Regular,UPI,2,249.06,8.3,71.0,5,3.7,No,456.78
+TX-00959,2026-04-30 18:00:00,Monitor,Central,Website,Loyal,UPI,2,236.46,16.9,62.0,4,5.0,No,393.0
+TX-00960,2026-04-30 21:00:00,Monitor,East,Website,Loyal,Card,4,210.47,14.1,16.0,6,3.5,No,723.17
+TX-00961,2026-05-01 00:00:00,Keyboard,North,Website,Regular,COD,4,42.2,7.7,69.0,5,4.1,Yes,155.8
+TX-00962,2026-05-01 03:00:00,Monitor,South,Website,Regular,COD,4,218.91,10.2,15.0,4,3.1,No,786.32
+TX-00963,2026-05-01 06:00:00,Notebook,South,Website,Regular,Card,1,7.41,8.1,7.0,2,4.4,No,6.81
+TX-00964,2026-05-01 09:00:00,Notebook,South,Website,Regular,UPI,1,7.2,8.1,36.0,6,4.2,No,6.62
+TX-00965,2026-05-01 12:00:00,Office Chair,South,Marketplace,Regular,Wallet,1,145.5,11.9,33.0,5,4.0,No,128.19
+TX-00966,2026-05-01 15:00:00,Monitor,West,Website,Regular,Wallet,1,188.43,5.3,67.0,6,3.7,No,178.44
+TX-00967,2026-05-01 18:00:00,Office Chair,North,Marketplace,Loyal,UPI,2,219.53,12.1,59.0,7,4.2,Yes,385.93
+TX-00968,2026-05-01 21:00:00,Notebook,South,Website,Regular,Wallet,5,7.49,11.6,5.0,2,3.9,No,33.11
+TX-00969,2026-05-02 00:00:00,Keyboard,East,Website,New,Card,3,54.44,8.9,42.0,2,4.1,No,148.78
+TX-00970,2026-05-02 03:00:00,Headphones,East,Mobile App,Regular,Card,5,57.26,6.9,67.0,1,5.0,No,266.55
+TX-00971,2026-05-02 06:00:00,Headphones,Central,Website,Loyal,Wallet,1,54.73,6.9,62.0,5,4.3,No,50.95
+TX-00972,2026-05-02 09:00:00,Notebook,Central,Website,New,UPI,1,6.89,1.2,43.0,5,4.5,No,6.81
+TX-00973,2026-05-02 12:00:00,Notebook,South,Mobile App,Loyal,Bank Transfer,2,8.0,18.2,52.0,4,3.9,No,13.09
+TX-00974,2026-05-02 15:00:00,Office Chair,East,Website,New,Card,2,217.49,8.9,48.0,2,3.8,No,396.27
+TX-00975,2026-05-02 18:00:00,Headphones,North,Website,Regular,Card,4,64.27,6.2,20.0,4,4.2,No,241.14
+TX-00976,2026-05-02 21:00:00,Keyboard,West,Mobile App,Regular,Card,4,46.25,9.0,48.0,4,5.0,No,168.35
+TX-00977,2026-05-03 00:00:00,Monitor,North,Website,New,Card,3,196.13,5.2,57.0,5,4.0,No,557.79
+TX-00978,2026-05-03 03:00:00,Monitor,North,Marketplace,Loyal,Card,3,199.92,11.0,5.0,4,4.4,No,533.79
+TX-00979,2026-05-03 06:00:00,Keyboard,West,Website,Regular,UPI,3,41.32,5.2,59.0,5,3.7,No,117.51
+TX-00980,2026-05-03 09:00:00,Notebook,North,Corporate,Enterprise,UPI,8,9.09,10.8,21.0,4,2.7,No,64.87
+TX-00981,2026-05-03 12:00:00,Office Chair,East,Marketplace,Regular,Wallet,3,211.9,1.7,1.0,6,3.8,No,624.89
+TX-00982,2026-05-03 15:00:00,Webcam,North,Corporate,Loyal,UPI,3,71.38,7.2,64.0,5,5.0,No,198.72
+TX-00983,2026-05-03 18:00:00,Webcam,West,Marketplace,Enterprise,Card,12,67.91,18.1,33.0,2,4.5,No,667.42
+TX-00984,2026-05-03 21:00:00,Monitor,West,Website,Regular,Wallet,3,256.85,5.0,35.0,6,5.0,No,732.02
+TX-00985,2026-05-04 00:00:00,Notebook,East,Mobile App,Regular,Card,5,7.25,9.6,53.0,6,4.0,No,32.77
+TX-00986,2026-05-04 03:00:00,Office Chair,Central,Website,Loyal,Bank Transfer,1,180.94,14.9,48.0,5,2.9,No,153.98
+TX-00987,2026-05-04 06:00:00,Headphones,East,Marketplace,Regular,Card,2,57.61,8.0,53.0,4,3.6,No,106.0
+TX-00988,2026-05-04 09:00:00,Notebook,North,Mobile App,Enterprise,UPI,15,7.34,14.1,80.0,6,4.4,No,94.58
+TX-00989,2026-05-04 12:00:00,Headphones,North,Website,Regular,Bank Transfer,2,51.61,8.4,55.0,2,4.3,Yes,94.55
+TX-00990,2026-05-04 15:00:00,Webcam,South,Corporate,Regular,UPI,3,65.18,6.8,4.0,6,4.2,No,182.24
+TX-00991,2026-05-04 18:00:00,Keyboard,South,Website,New,UPI,3,51.85,11.6,19.0,3,3.9,No,137.51
+TX-00992,2026-05-04 21:00:00,Webcam,South,Mobile App,Loyal,Wallet,4,84.77,17.6,38.0,5,4.7,No,279.4
+TX-00993,2026-05-05 00:00:00,Webcam,South,Mobile App,Enterprise,Card,17,70.81,19.3,40.0,4,3.9,No,971.44
+TX-00994,2026-05-05 03:00:00,Headphones,East,Website,New,Wallet,3,53.54,1.5,31.0,2,4.4,No,158.21
+TX-00995,2026-05-05 06:00:00,Office Chair,North,Mobile App,Loyal,Bank Transfer,3,169.52,10.7,16.0,3,4.3,No,454.14
+TX-00996,2026-05-05 09:00:00,Monitor,West,Marketplace,Enterprise,COD,11,220.04,15.0,9.0,5,4.0,No,2057.37
+TX-00997,2026-05-05 12:00:00,Keyboard,South,Website,New,UPI,2,42.59,9.4,13.0,4,3.7,No,77.17
+TX-00998,2026-05-05 15:00:00,Notebook,West,Mobile App,New,UPI,4,7.92,2.8,80.0,3,4.0,No,30.79
+TX-00999,2026-05-05 18:00:00,Office Chair,East,Website,Loyal,Wallet,6,187.59,6.8,34.0,3,5.0,No,1049.0
+TX-01000,2026-05-05 21:00:00,Headphones,Central,Mobile App,Regular,UPI,1,52.82,11.9,81.0,5,4.8,No,46.53
+TX-01001,2026-05-06 00:00:00,Notebook,East,Website,New,Crypto,2,7.85,6.3,29.0,6,4.8,No,14.71
+TX-01002,2026-05-06 03:00:00,Monitor,South,Corporate,Loyal,Crypto,5,215.96,7.5,27.0,1,3.8,No,998.82
+TX-01003,2026-05-06 06:00:00,Notebook,East,Marketplace,Regular,Crypto,5,7.75,4.7,42.0,8,3.4,No,36.93
+TX-01004,2026-05-06 09:00:00,Notebook,West,Website,Loyal,Crypto,1,7.65,13.2,80.0,4,4.8,No,6.64
+TX-01005,2026-05-06 12:00:00,Keyboard,East,Website,Loyal,Card,2,48.56,9.5,48.0,5,4.7,No,87.89
+TX-01006,2026-05-06 15:00:00,Monitor,East,Mobile App,Loyal,Card,4,184.3,12.7,3.0,3,4.3,No,643.58
+TX-01007,2026-05-06 18:00:00,Office Chair,East,Mobile App,Regular,Card,2,210.69,5.1,23.0,4,4.0,Yes,399.89
+TX-01008,2026-05-06 21:00:00,Headphones,South,Website,Regular,COD,3,55.75,2.8,83.0,4,3.4,No,162.57
+TX-01009,2026-05-07 00:00:00,Webcam,South,Website,Regular,Card,2,74.4,12.3,13.0,3,4.7,No,130.5
+TX-01010,2026-05-07 03:00:00,Monitor,Central,Website,New,Card,3,236.54,9.2,71.0,3,4.9,No,644.33
+TX-01011,2026-05-07 06:00:00,Keyboard,West,Corporate,Loyal,UPI,1,41.92,11.0,79.0,6,3.8,No,37.31
+TX-01012,2026-05-07 09:00:00,Keyboard,North,Mobile App,New,Card,3,41.07,6.4,19.0,2,3.8,No,115.32
+TX-01013,2026-05-07 12:00:00,Monitor,Central,Marketplace,Regular,COD,1,198.42,12.4,47.0,5,4.9,No,173.82
+TX-01014,2026-05-07 15:00:00,Office Chair,West,Mobile App,New,COD,1,175.61,9.8,51.0,4,3.8,No,158.4
+TX-01015,2026-05-07 18:00:00,Headphones,North,Corporate,Regular,UPI,2,58.98,11.4,67.0,3,5.0,No,104.51
+TX-01016,2026-05-07 21:00:00,Notebook,West,Website,Regular,UPI,3,7.55,6.2,68.0,7,4.1,No,21.25
+TX-01017,2026-05-08 00:00:00,Keyboard,East,Website,Regular,UPI,2,47.82,8.2,6.0,3,4.0,No,87.8
+TX-01018,2026-05-08 03:00:00,Webcam,Central,Corporate,Loyal,Card,2,55.24,13.2,27.0,3,4.2,No,95.9
+TX-01019,2026-05-08 06:00:00,Notebook,East,Corporate,New,Card,3,7.7,6.3,79.0,4,4.0,No,21.64
+TX-01020,2026-05-08 09:00:00,Monitor,East,Website,Loyal,Card,4,247.24,11.7,30.0,3,4.8,Yes,873.25
+TX-01021,2026-05-08 12:00:00,Office Chair,South,Website,Loyal,Card,5,176.95,10.2,21.0,4,4.7,Yes,794.51
+TX-01022,2026-05-08 15:00:00,Webcam,South,Mobile App,Regular,UPI,2,64.43,9.2,53.0,4,4.8,No,117.0
+TX-01023,2026-05-08 18:00:00,Office Chair,West,Website,Loyal,Card,5,168.56,8.0,17.0,4,4.3,No,775.38
+TX-01024,2026-05-08 21:00:00,Keyboard,Central,Website,Regular,Card,3,33.24,9.7,13.0,4,3.9,No,90.05
+TX-01025,2026-05-09 00:00:00,Keyboard,Central,Marketplace,New,UPI,4,40.67,8.9,68.0,3,4.2,No,148.2
+TX-01026,2026-05-09 03:00:00,Headphones,West,Website,Regular,UPI,3,61.13,7.4,10.0,5,4.0,No,169.82
+TX-01027,2026-05-09 06:00:00,Office Chair,West,Mobile App,New,Card,4,169.81,9.3,75.0,4,5.0,No,616.07
+TX-01028,2026-05-09 09:00:00,Headphones,East,Website,Loyal,Card,2,52.5,10.9,21.0,3,4.8,No,93.56
+TX-01029,2026-05-09 12:00:00,Webcam,South,Website,Enterprise,Card,10,55.44,13.0,9.0,6,4.1,No,482.33
+TX-01030,2026-05-09 15:00:00,Monitor,West,Mobile App,Loyal,Card,3,186.89,13.6,63.0,4,3.7,Yes,484.42
+TX-01031,2026-05-09 18:00:00,Keyboard,South,Website,Regular,Bank Transfer,2,50.69,9.8,15.0,5,5.0,No,91.44
+TX-01032,2026-05-09 21:00:00,Keyboard,South,Mobile App,Regular,COD,4,47.87,6.5,31.0,6,4.3,Yes,179.03
+TX-01033,2026-05-10 00:00:00,Monitor,Central,Website,Enterprise,UPI,19,193.23,13.2,30.0,6,4.1,No,3186.75
+TX-01034,2026-05-10 03:00:00,Office Chair,East,Corporate,Regular,UPI,4,169.0,7.5,43.0,5,5.0,No,625.3
+TX-01035,2026-05-10 06:00:00,Monitor,South,Mobile App,New,Wallet,2,219.36,6.3,40.0,4,3.9,No,411.08
+TX-01036,2026-05-10 09:00:00,Keyboard,Central,Marketplace,Regular,UPI,4,39.93,12.6,17.0,4,4.0,No,139.6
+TX-01037,2026-05-10 12:00:00,Headphones,Central,Website,Regular,Card,6,45.01,8.9,20.0,4,4.1,No,246.02
+TX-01038,2026-05-10 15:00:00,Monitor,South,Website,Regular,Card,3,216.53,8.0,17.0,1,3.5,No,597.62
+TX-01039,2026-05-10 18:00:00,Monitor,East,Website,New,UPI,3,232.97,5.2,5.0,5,4.4,Yes,662.57
+TX-01040,2026-05-10 21:00:00,Notebook,East,Mobile App,Regular,UPI,2,8.49,10.2,55.0,4,3.8,No,15.25
+TX-01041,2026-05-11 00:00:00,Notebook,West,Website,Regular,Card,6,8.73,6.2,40.0,5,3.9,No,49.13
+TX-01042,2026-05-11 03:00:00,Keyboard,Central,Website,New,Card,3,38.52,6.0,10.0,4,3.8,No,108.63
+TX-01043,2026-05-11 06:00:00,Keyboard,East,Website,New,Card,1,45.26,10.3,28.0,5,3.9,No,40.6
+TX-01044,2026-05-11 09:00:00,Keyboard,West,Website,Regular,Card,3,43.81,9.2,57.0,2,3.7,No,119.34
+TX-01045,2026-05-11 12:00:00,Notebook,East,Website,Loyal,UPI,4,7.93,4.5,24.0,2,4.3,No,30.29
+TX-01046,2026-05-11 15:00:00,Headphones,Central,Website,Regular,Wallet,1,53.85,7.5,34.0,1,4.1,No,49.81
+TX-01047,2026-05-11 18:00:00,Notebook,East,Website,Loyal,UPI,4,7.49,12.4,63.0,4,4.2,No,26.24
+TX-01048,2026-05-11 21:00:00,Webcam,South,Mobile App,Loyal,Card,4,51.77,11.0,57.0,3,5.0,No,184.3
+TX-01049,2026-05-12 00:00:00,Webcam,East,Website,Regular,Card,3,78.62,8.5,59.0,3,4.1,No,215.81
+TX-01050,2026-05-12 03:00:00,Headphones,Central,Website,Loyal,Bank Transfer,1,56.85,6.6,33.0,4,4.5,No,53.1
+TX-01051,2026-05-12 06:00:00,Keyboard,West,Mobile App,Loyal,UPI,1,38.79,3.5,41.0,3,4.6,No,37.43
+TX-01052,2026-05-12 09:00:00,Notebook,North,Marketplace,Regular,Card,4,8.39,5.1,72.0,2,4.2,No,31.85
+TX-01053,2026-05-12 12:00:00,Headphones,North,Website,New,Card,4,52.59,8.8,74.0,7,4.4,No,191.85
+TX-01054,2026-05-12 15:00:00,Notebook,East,Mobile App,New,Bank Transfer,6,7.67,0.0,5.0,4,4.2,No,46.02
+TX-01055,2026-05-12 18:00:00,Headphones,Central,Corporate,Enterprise,Wallet,18,50.93,12.5,71.0,3,4.3,No,802.15
+TX-01056,2026-05-12 21:00:00,Keyboard,East,Mobile App,Loyal,Bank Transfer,3,47.48,6.2,76.0,3,3.9,No,133.61
+TX-01057,2026-05-13 00:00:00,Office Chair,East,Corporate,Enterprise,UPI,16,166.16,14.3,80.0,4,3.9,No,2278.39
+TX-01058,2026-05-13 03:00:00,Headphones,West,Marketplace,Loyal,UPI,3,49.29,17.9,23.0,4,4.2,No,121.4
+TX-01059,2026-05-13 06:00:00,Keyboard,East,Website,New,UPI,6,50.39,7.3,43.0,6,3.1,No,280.27
+TX-01060,2026-05-13 09:00:00,Keyboard,Central,Website,Loyal,Card,3,44.2,11.7,4.0,4,5.0,No,117.09
+TX-01061,2026-05-13 12:00:00,Office Chair,West,Mobile App,Regular,Wallet,2,177.36,10.5,10.0,6,5.0,No,317.47
+TX-01062,2026-05-13 15:00:00,Keyboard,West,Corporate,Loyal,UPI,3,48.23,12.1,48.0,3,4.3,No,127.18
+TX-01063,2026-05-13 18:00:00,Headphones,West,Mobile App,New,Card,3,51.45,7.4,18.0,5,4.6,No,142.93
+TX-01064,2026-05-13 21:00:00,Keyboard,West,Website,Regular,Bank Transfer,2,42.94,10.8,19.0,5,4.8,No,76.6
+TX-01065,2026-05-14 00:00:00,Headphones,North,Mobile App,Loyal,UPI,3,56.71,13.4,25.0,6,3.5,No,147.33
+TX-01066,2026-05-14 03:00:00,Office Chair,East,Website,Loyal,Card,2,154.29,12.9,39.0,6,4.7,No,268.77
+TX-01067,2026-05-14 06:00:00,Monitor,North,Marketplace,Regular,Card,1,224.92,7.6,13.0,4,4.0,No,207.83
+TX-01068,2026-05-14 09:00:00,Keyboard,East,Mobile App,Regular,Bank Transfer,2,41.72,7.0,68.0,4,5.0,Yes,77.6
+TX-01069,2026-05-14 12:00:00,Notebook,North,Mobile App,Regular,COD,2,8.71,10.8,57.0,1,4.1,No,15.54
+TX-01070,2026-05-14 15:00:00,Monitor,East,Marketplace,Enterprise,UPI,11,232.36,14.0,67.0,4,4.7,No,2198.13
+TX-01071,2026-05-14 18:00:00,Webcam,South,Mobile App,Regular,COD,4,72.96,11.7,78.0,5,4.1,No,257.69
+TX-01072,2026-05-14 21:00:00,Keyboard,North,Mobile App,Regular,Bank Transfer,4,38.32,4.9,51.0,5,5.0,No,145.77
+TX-01073,2026-05-15 00:00:00,Monitor,North,Marketplace,Regular,Bank Transfer,4,217.74,12.3,31.0,4,3.9,No,763.83
+TX-01074,2026-05-15 03:00:00,Office Chair,East,Marketplace,Regular,Bank Transfer,2,160.01,9.4,83.0,6,4.8,No,289.94
+TX-01075,2026-05-15 06:00:00,Webcam,North,Marketplace,Regular,UPI,5,69.74,5.1,48.0,4,4.5,Yes,330.92
+TX-01076,2026-05-15 09:00:00,Headphones,Central,Website,Regular,Wallet,4,43.63,9.5,39.0,3,4.4,No,157.94
+TX-01077,2026-05-15 12:00:00,Keyboard,West,Mobile App,Loyal,UPI,7,38.57,10.0,35.0,3,4.3,No,242.99
+TX-01078,2026-05-15 15:00:00,Monitor,West,Website,Loyal,Wallet,3,247.78,12.1,4.0,3,3.8,Yes,653.4
+TX-01079,2026-05-15 18:00:00,Keyboard,North,Marketplace,Enterprise,Card,11,46.69,13.5,81.0,5,2.8,No,444.26
+TX-01080,2026-05-15 21:00:00,Headphones,West,Mobile App,Regular,Wallet,4,53.09,7.6,69.0,4,4.8,Yes,196.22
+TX-01081,2026-05-16 00:00:00,Headphones,West,Website,Regular,COD,2,50.22,10.8,59.0,5,3.9,No,89.59
+TX-01082,2026-05-16 03:00:00,Office Chair,South,Website,Loyal,Card,2,161.5,13.6,19.0,3,4.8,Yes,279.07
+TX-01083,2026-05-16 06:00:00,Office Chair,North,Website,Loyal,COD,1,183.64,8.6,78.0,4,4.4,No,167.85
+TX-01084,2026-05-16 09:00:00,Webcam,East,Mobile App,Regular,UPI,2,67.64,4.8,15.0,1,4.9,No,128.79
+TX-01085,2026-05-16 12:00:00,Office Chair,West,Website,Loyal,Card,2,210.11,12.8,21.0,4,4.6,Yes,366.43
+TX-01086,2026-05-16 15:00:00,Webcam,North,Website,Loyal,Card,5,68.72,13.0,6.0,4,2.8,No,298.93
+TX-01087,2026-05-16 18:00:00,Webcam,North,Marketplace,Loyal,Bank Transfer,5,70.41,10.0,25.0,3,4.5,No,316.84
+TX-01088,2026-05-16 21:00:00,Webcam,South,Marketplace,Loyal,UPI,4,60.93,16.8,28.0,4,4.0,No,202.78
+TX-01089,2026-05-17 00:00:00,Monitor,East,Website,Regular,Card,1,212.21,10.4,67.0,4,4.8,No,190.14
+TX-01090,2026-05-17 03:00:00,Monitor,East,Website,Regular,UPI,1,223.93,6.1,28.0,6,4.5,No,210.27
+TX-01091,2026-05-17 06:00:00,Headphones,East,Corporate,Regular,Card,2,52.99,5.8,81.0,3,4.5,No,99.83
+TX-01092,2026-05-17 09:00:00,Keyboard,South,Mobile App,New,UPI,3,42.87,7.3,26.0,4,4.1,No,119.22
+TX-01093,2026-05-17 12:00:00,Headphones,North,Mobile App,Loyal,Bank Transfer,2,56.83,11.0,45.0,3,3.7,No,101.16
+TX-01094,2026-05-17 15:00:00,Headphones,North,Website,Regular,Wallet,7,64.0,11.8,50.0,3,4.0,No,395.14
+TX-01095,2026-05-17 18:00:00,Keyboard,North,Website,New,Bank Transfer,4,45.66,11.0,70.0,4,3.2,No,162.55
+TX-01096,2026-05-17 21:00:00,Monitor,West,Website,Loyal,UPI,2,246.67,12.1,64.0,4,3.9,No,433.65
+TX-01097,2026-05-18 00:00:00,Headphones,West,Mobile App,Loyal,COD,3,58.53,14.0,73.0,4,3.4,No,151.01
+TX-01098,2026-05-18 03:00:00,Webcam,East,Website,Loyal,Card,4,78.02,14.5,79.0,4,3.4,No,266.83
+TX-01099,2026-05-18 06:00:00,Webcam,North,Website,Regular,Card,1,65.86,8.2,10.0,3,4.3,No,60.46
+TX-01100,2026-05-18 09:00:00,Notebook,East,Mobile App,Loyal,Card,6,7.84,13.2,8.0,5,4.5,No,40.83
+TX-01101,2026-05-18 12:00:00,Notebook,Central,Corporate,Regular,UPI,3,7.84,9.8,38.0,4,4.2,No,21.22
+TX-01102,2026-05-18 15:00:00,Headphones,South,Marketplace,Regular,UPI,2,58.09,9.5,13.0,4,3.9,No,105.14
+TX-01103,2026-05-18 18:00:00,Webcam,East,Mobile App,New,Wallet,2,75.77,5.7,42.0,4,3.7,No,142.9
+TX-01104,2026-05-18 21:00:00,Webcam,East,Mobile App,Regular,Card,3,70.88,6.0,50.0,4,4.0,No,199.88
+TX-01105,2026-05-19 00:00:00,Notebook,South,Website,Loyal,Card,2,8.73,11.1,24.0,5,3.7,No,15.52
+TX-01106,2026-05-19 03:00:00,Webcam,East,Website,Regular,UPI,2,66.17,5.9,9.0,4,4.2,No,124.53
+TX-01107,2026-05-19 06:00:00,Notebook,East,Mobile App,Regular,COD,2,8.74,3.6,82.0,5,3.4,No,16.85
+TX-01108,2026-05-19 09:00:00,Monitor,East,Website,Loyal,Card,3,243.52,14.0,32.0,4,4.6,No,628.28
+TX-01109,2026-05-19 12:00:00,Office Chair,West,Mobile App,Loyal,Card,3,192.62,13.0,71.0,3,3.9,No,502.74
+TX-01110,2026-05-19 15:00:00,Notebook,East,Marketplace,Regular,Card,7,8.11,4.0,53.0,2,4.4,No,54.5
+TX-01111,2026-05-19 18:00:00,Notebook,North,Corporate,Enterprise,UPI,11,8.59,14.3,56.0,2,4.7,No,80.98
+TX-01112,2026-05-19 21:00:00,Monitor,North,Website,Loyal,Card,3,201.19,11.4,66.0,6,4.4,No,534.76
+TX-01113,2026-05-20 00:00:00,Keyboard,East,Website,Enterprise,UPI,7,45.9,15.5,23.0,1,4.6,No,271.5
+TX-01114,2026-05-20 03:00:00,Office Chair,Central,Website,Enterprise,UPI,10,185.49,11.8,19.0,6,3.1,No,1636.02
+TX-01115,2026-05-20 06:00:00,Office Chair,North,Website,Loyal,UPI,6,157.59,7.9,84.0,3,3.9,No,870.84
+TX-01116,2026-05-20 09:00:00,Notebook,North,Website,Loyal,UPI,4,8.39,13.6,57.0,6,4.8,No,29.0
+TX-01117,2026-05-20 12:00:00,Notebook,West,Website,Regular,Card,2,7.06,3.4,25.0,1,4.5,No,13.64
+TX-01118,2026-05-20 15:00:00,Webcam,East,Marketplace,New,COD,2,67.07,7.3,55.0,4,5.0,No,124.35
+TX-01119,2026-05-20 18:00:00,Headphones,South,Mobile App,Regular,UPI,3,55.22,7.0,34.0,6,5.0,No,154.06
+TX-01120,2026-05-20 21:00:00,Office Chair,South,Corporate,Loyal,Card,3,167.32,11.6,73.0,5,4.4,No,443.73
+TX-01121,2026-05-21 00:00:00,Keyboard,West,Website,Regular,Card,5,45.37,8.8,43.0,4,4.1,No,206.89
+TX-01122,2026-05-21 03:00:00,Notebook,East,Website,Loyal,UPI,3,8.05,16.8,27.0,1,3.7,No,20.09
+TX-01123,2026-05-21 06:00:00,Webcam,West,Website,New,Bank Transfer,2,64.49,3.2,58.0,2,3.9,No,124.85
+TX-01124,2026-05-21 09:00:00,Notebook,South,Website,Regular,Card,2,8.47,10.6,64.0,6,4.0,No,15.14
+TX-01125,2026-05-21 12:00:00,Monitor,East,Website,Regular,Card,1,203.81,0.5,32.0,4,3.9,No,202.79
+TX-01126,2026-05-21 15:00:00,Keyboard,Central,Corporate,Regular,Card,3,56.57,12.2,64.0,4,3.7,No,149.01
+TX-01127,2026-05-21 18:00:00,Monitor,South,Website,New,UPI,3,217.6,1.9,20.0,4,4.4,No,640.4
+TX-01128,2026-05-21 21:00:00,Keyboard,South,Website,New,COD,3,40.03,15.3,21.0,2,5.0,No,101.72
+TX-01129,2026-05-22 00:00:00,Keyboard,North,Mobile App,Loyal,UPI,2,40.78,10.8,70.0,5,4.7,No,72.75
+TX-01130,2026-05-22 03:00:00,Office Chair,West,Mobile App,Regular,UPI,2,201.89,11.9,53.0,3,4.0,No,355.73
+TX-01131,2026-05-22 06:00:00,Office Chair,North,Mobile App,New,Bank Transfer,3,172.78,11.3,3.0,4,4.8,No,459.77
+TX-01132,2026-05-22 09:00:00,Monitor,South,Website,New,Wallet,2,191.95,6.7,57.0,3,4.4,No,358.18
+TX-01133,2026-05-22 12:00:00,Notebook,West,Marketplace,Regular,Card,2,8.71,6.9,26.0,2,4.2,No,16.22
+TX-01134,2026-05-22 15:00:00,Webcam,North,Website,New,Card,1,67.15,5.5,24.0,3,4.1,No,63.46
+TX-01135,2026-05-22 18:00:00,Office Chair,Central,Website,Loyal,UPI,3,192.15,14.4,36.0,5,4.1,Yes,493.44
+TX-01136,2026-05-22 21:00:00,Headphones,East,Mobile App,Loyal,Bank Transfer,4,60.39,10.7,38.0,5,4.6,No,215.71
+TX-01137,2026-05-23 00:00:00,Monitor,South,Marketplace,Regular,Wallet,2,226.12,5.5,75.0,4,4.3,No,427.37
+TX-01138,2026-05-23 03:00:00,Monitor,East,Website,Regular,Wallet,1,279.56,9.6,37.0,5,3.8,No,252.72
+TX-01139,2026-05-23 06:00:00,Notebook,West,Mobile App,New,Bank Transfer,4,6.73,5.3,25.0,4,3.8,No,25.49
+TX-01140,2026-05-23 09:00:00,Keyboard,East,Website,Regular,Card,2,41.47,7.0,65.0,4,4.4,No,77.13
+TX-01141,2026-05-23 12:00:00,Headphones,Central,Website,Loyal,Card,3,53.61,12.3,46.0,3,4.4,No,141.05
+TX-01142,2026-05-23 15:00:00,Webcam,Central,Website,Regular,Card,4,87.76,6.1,1.0,5,4.0,No,329.63
+TX-01143,2026-05-23 18:00:00,Webcam,South,Mobile App,Loyal,Bank Transfer,2,83.79,10.5,54.0,4,3.6,No,149.98
+TX-01144,2026-05-23 21:00:00,Webcam,West,Website,Regular,UPI,2,79.63,12.6,43.0,3,4.9,Yes,139.19
+TX-01145,2026-05-24 00:00:00,Monitor,South,Mobile App,Regular,Card,2,203.2,7.4,49.0,2,4.8,No,376.33
+TX-01146,2026-05-24 03:00:00,Headphones,Central,Website,Regular,Card,4,51.4,6.9,16.0,5,3.1,No,191.41
+TX-01147,2026-05-24 06:00:00,Webcam,South,Marketplace,Regular,Wallet,2,64.43,7.5,41.0,3,4.9,No,119.2
+TX-01148,2026-05-24 09:00:00,Webcam,South,Marketplace,Enterprise,Wallet,10,64.73,16.4,55.0,4,4.1,No,541.14
+TX-01149,2026-05-24 12:00:00,Monitor,West,Website,New,Wallet,5,255.42,4.9,57.0,7,4.3,Yes,1214.52
+TX-01150,2026-05-24 15:00:00,Office Chair,West,Website,Loyal,Card,2,175.67,13.3,58.0,5,4.8,No,304.61
+TX-01151,2026-05-24 18:00:00,Notebook,North,Website,Loyal,COD,3,7.91,12.8,84.0,6,5.0,No,20.69
+TX-01152,2026-05-24 21:00:00,Webcam,East,Marketplace,Regular,Wallet,4,75.64,2.6,43.0,3,4.8,No,294.69
+TX-01153,2026-05-25 00:00:00,Notebook,South,Website,Regular,Wallet,3,6.77,13.4,37.0,5,4.3,No,17.59
+TX-01154,2026-05-25 03:00:00,Notebook,West,Mobile App,Regular,Wallet,3,8.04,12.4,46.0,4,3.4,No,21.13
+TX-01155,2026-05-25 06:00:00,Keyboard,East,Website,Regular,COD,1,40.33,5.6,28.0,4,3.1,No,38.07
+TX-01156,2026-05-25 09:00:00,Notebook,Central,Marketplace,Loyal,COD,4,7.77,8.6,27.0,7,4.7,No,28.41
+TX-01157,2026-05-25 12:00:00,Notebook,Central,Mobile App,Regular,UPI,3,7.54,8.7,58.0,4,4.9,No,20.65
+TX-01158,2026-05-25 15:00:00,Notebook,West,Mobile App,Enterprise,UPI,7,7.51,10.7,27.0,4,3.8,No,46.95
+TX-01159,2026-05-25 18:00:00,Monitor,West,Corporate,Regular,UPI,4,225.02,12.1,63.0,3,4.1,No,791.17
+TX-01160,2026-05-25 21:00:00,Webcam,Central,Website,Regular,Bank Transfer,4,71.57,6.6,63.0,5,3.9,No,267.39
+TX-01161,2026-05-26 00:00:00,Notebook,North,Marketplace,Loyal,Wallet,4,7.83,16.9,81.0,3,3.9,No,26.03
+TX-01162,2026-05-26 03:00:00,Keyboard,West,Website,Regular,Card,2,46.7,5.5,12.0,5,4.8,No,88.26
+TX-01163,2026-05-26 06:00:00,Webcam,West,Mobile App,Loyal,Card,2,64.18,11.7,31.0,2,4.3,No,113.34
+TX-01164,2026-05-26 09:00:00,Notebook,North,Marketplace,New,COD,3,8.56,11.8,65.0,5,4.1,No,22.65
+TX-01165,2026-05-26 12:00:00,Notebook,Central,Mobile App,Enterprise,Bank Transfer,12,7.84,14.0,37.0,3,5.0,No,80.91
+TX-01166,2026-05-26 15:00:00,Webcam,West,Mobile App,Loyal,COD,5,66.69,12.8,56.0,5,3.4,No,290.77
+TX-01167,2026-05-26 18:00:00,Webcam,South,Website,Loyal,UPI,4,64.65,15.3,62.0,4,4.5,No,219.03
+TX-01168,2026-05-26 21:00:00,Keyboard,East,Website,Regular,Bank Transfer,5,43.93,6.3,75.0,3,3.6,No,205.81
+TX-01169,2026-05-27 00:00:00,Webcam,East,Website,Loyal,Bank Transfer,1,84.4,8.2,19.0,3,4.1,No,77.48
+TX-01170,2026-05-27 03:00:00,Notebook,Central,Mobile App,Regular,Card,3,7.95,3.6,22.0,3,4.3,No,22.99
+TX-01171,2026-05-27 06:00:00,Monitor,Central,Mobile App,Loyal,Card,2,196.21,13.8,40.0,5,4.7,No,338.27
+TX-01172,2026-05-27 09:00:00,Webcam,Central,Website,New,COD,3,76.74,9.2,43.0,3,4.1,No,209.04
+TX-01173,2026-05-27 12:00:00,Headphones,West,Website,Regular,Card,1,52.46,11.2,77.0,4,4.0,No,46.58
+TX-01174,2026-05-27 15:00:00,Webcam,North,Website,Regular,UPI,3,72.01,7.2,4.0,4,4.0,No,200.48
+TX-01175,2026-05-27 18:00:00,Monitor,Central,Website,Regular,Wallet,3,207.07,3.7,21.0,6,3.6,No,598.23
+TX-01176,2026-05-27 21:00:00,Webcam,North,Website,Regular,Wallet,4,79.56,0.9,77.0,4,4.5,No,315.38
+TX-01177,2026-05-28 00:00:00,Monitor,North,Marketplace,Loyal,Card,2,207.38,20.6,52.0,4,4.4,No,329.32
+TX-01178,2026-05-28 03:00:00,Headphones,North,Mobile App,Regular,Wallet,4,63.25,9.6,57.0,4,4.4,No,228.71
+TX-01179,2026-05-28 06:00:00,Headphones,Central,Website,Loyal,Card,3,49.52,12.4,21.0,1,4.2,No,130.14
+TX-01180,2026-05-28 09:00:00,Headphones,East,Mobile App,New,Bank Transfer,2,53.41,8.8,53.0,2,4.1,No,97.42
+TX-01181,2026-05-28 12:00:00,Webcam,South,Marketplace,Loyal,Card,2,80.52,7.7,32.0,4,4.8,No,148.64
+TX-01182,2026-05-28 15:00:00,Notebook,North,Website,Loyal,Wallet,3,8.14,9.6,62.0,3,4.8,No,22.08
+TX-01183,2026-05-28 18:00:00,Notebook,East,Website,Regular,Bank Transfer,5,10.04,13.2,8.0,2,5.0,No,43.57
+TX-01184,2026-05-28 21:00:00,Notebook,West,Website,Loyal,Card,3,7.79,14.0,24.0,5,4.4,No,20.1
+TX-01185,2026-05-29 00:00:00,Notebook,Central,Website,Loyal,Card,4,8.21,9.7,55.0,4,4.9,Yes,29.65
+TX-01186,2026-05-29 03:00:00,Webcam,East,Marketplace,Loyal,Bank Transfer,5,84.69,8.3,51.0,4,4.0,No,388.3
+TX-01187,2026-05-29 06:00:00,Monitor,West,Corporate,Regular,Card,3,189.09,6.5,71.0,3,4.1,No,530.4
+TX-01188,2026-05-29 09:00:00,Office Chair,Central,Website,Regular,Card,2,152.81,7.1,68.0,4,4.9,No,283.92
+TX-01189,2026-05-29 12:00:00,Notebook,Central,Mobile App,Loyal,UPI,3,7.39,18.1,2.0,5,4.7,No,18.16
+TX-01190,2026-05-29 15:00:00,Keyboard,South,Website,Regular,COD,2,48.81,7.4,8.0,4,4.0,No,90.4
+TX-01191,2026-05-29 18:00:00,Monitor,Central,Mobile App,Loyal,UPI,5,187.29,8.4,30.0,5,3.6,No,857.79
+TX-01192,2026-05-29 21:00:00,Monitor,East,Marketplace,Regular,UPI,3,233.54,7.8,81.0,3,4.1,No,645.97
+TX-01193,2026-05-30 00:00:00,Webcam,Central,Website,Loyal,COD,2,73.79,12.8,41.0,4,3.8,No,128.69
+TX-01194,2026-05-30 03:00:00,Office Chair,North,Website,New,UPI,2,220.17,4.2,75.0,5,5.0,No,421.85
+TX-01195,2026-05-30 06:00:00,Webcam,North,Mobile App,New,UPI,2,77.71,9.2,5.0,6,4.6,No,141.12
+TX-01196,2026-05-30 09:00:00,Notebook,Central,Corporate,Enterprise,UPI,13,8.3,18.6,81.0,6,3.8,No,87.83
+TX-01197,2026-05-30 12:00:00,Headphones,West,Website,Loyal,Card,3,63.01,12.4,6.0,4,3.6,No,165.59
+TX-01198,2026-05-30 15:00:00,Keyboard,North,Website,Loyal,Card,4,47.49,9.6,68.0,4,3.8,No,171.72
+TX-01199,2026-05-30 18:00:00,Headphones,Central,Website,Enterprise,Wallet,13,52.53,13.4,74.0,3,3.9,Yes,591.38
+TX-01199,2026-05-30 18:00:00,Headphones,Central,Website,Enterprise,Wallet,13,52.53,13.4,74.0,3,3.9,Yes,591.38
